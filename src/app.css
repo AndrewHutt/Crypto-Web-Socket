@@ -1,0 +1,32 @@
+
+#app {
+    text-align: center;
+    background-color: royalblue;
+    color: white;
+}
+
+header { 
+    background-color: darkblue;
+    color: white;
+    display: flex;
+    justify-content:center;
+}
+
+header div { 
+    border: solid white;    
+}
+
+.data-row { 
+    display: flex;
+}
+
+#data-row-area { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-image {
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,36 @@
+{
+  "name": "newton-takehome",
+  "version": "1.0.0",
+  "description": "This is a takehome programming assignment used for a newton interview in Dec 2024.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject", 
+    "server": "node ./src/server.js"
+  },
+  "author": "Andrew Hutton",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^33.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,4952 @@
+{
+    "QCAD": {
+        "id": 0,
+        "ticker": "QCAD",
+        "slug": "qcad",
+        "name": "QCAD",
+        "iconUrl": "https://assets.coingecko.com/coins/images/12869/standard/qcad-logo2.a42bce89.png?1696512658",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "QCAD",
+                "timestamp": 1733179320,
+                "bid": 1.03,
+                "ask": 1.05,
+                "spot": 1.04,
+                "change": 0.757224705871165
+            },
+            {
+                "symbol": "QCAD",
+                "timestamp": 1733265720,
+                "bid": 1.04,
+                "ask": 1.06,
+                "spot": 1.05,
+                "change": 1.2564355475642763
+            },
+            {
+                "symbol": "QCAD",
+                "timestamp": 1733352120,
+                "bid": 1.02,
+                "ask": 1.04,
+                "spot": 1.03,
+                "change": -1.7180990330561436
+            },
+            {
+                "symbol": "QCAD",
+                "timestamp": 1733438520,
+                "bid": 1.03,
+                "ask": 1.05,
+                "spot": 1.04,
+                "change": 0.7769767826090495
+            },
+            {
+                "symbol": "QCAD",
+                "timestamp": 1733524920,
+                "bid": 1.05,
+                "ask": 1.07,
+                "spot": 1.06,
+                "change": 1.6443452330075035
+            },
+            {
+                "symbol": "QCAD",
+                "timestamp": 1733611320,
+                "bid": 1.06,
+                "ask": 1.08,
+                "spot": 1.07,
+                "change": 0.6382120958538895
+            },
+            {
+                "symbol": "QCAD",
+                "timestamp": 1733697720,
+                "bid": 1.07,
+                "ask": 1.09,
+                "spot": 1.08,
+                "change": 1.0986544547403843
+            }
+        ]
+    },
+    "BTC": {
+        "id": 1,
+        "ticker": "BTC",
+        "slug": "bitcoin",
+        "name": "Bitcoin",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "BTC",
+                "timestamp": 1733179320,
+                "bid": 136471.9,
+                "ask": 139647.28,
+                "spot": 138059.59,
+                "change": 1.9283788924006728
+            },
+            {
+                "symbol": "BTC",
+                "timestamp": 1733265720,
+                "bid": 133475.68,
+                "ask": 136581.34,
+                "spot": 135028.51,
+                "change": -2.195486318908497
+            },
+            {
+                "symbol": "BTC",
+                "timestamp": 1733352120,
+                "bid": 130778.54,
+                "ask": 133821.44,
+                "spot": 132299.99,
+                "change": -2.0207013306589983
+            },
+            {
+                "symbol": "BTC",
+                "timestamp": 1733438520,
+                "bid": 129673.55,
+                "ask": 132690.73,
+                "spot": 131182.14,
+                "change": -0.8449363372907503
+            },
+            {
+                "symbol": "BTC",
+                "timestamp": 1733524920,
+                "bid": 131320.12,
+                "ask": 134375.62,
+                "spot": 132847.87,
+                "change": 1.2697847495604773
+            },
+            {
+                "symbol": "BTC",
+                "timestamp": 1733611320,
+                "bid": 131957.34,
+                "ask": 135027.66,
+                "spot": 133492.5,
+                "change": 0.48523586400393626
+            },
+            {
+                "symbol": "BTC",
+                "timestamp": 1733697720,
+                "bid": 134473.51,
+                "ask": 137602.39,
+                "spot": 136037.95,
+                "change": 1.9068101910901554
+            }
+        ]
+    },
+    "ETH": {
+        "id": 1027,
+        "ticker": "ETH",
+        "slug": "ethereum",
+        "name": "Ethereum",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ETH",
+                "timestamp": 1733179320,
+                "bid": 5203.49,
+                "ask": 5324.57,
+                "spot": 5264.03,
+                "change": -1.104323349899821
+            },
+            {
+                "symbol": "ETH",
+                "timestamp": 1733265720,
+                "bid": 5187.68,
+                "ask": 5308.38,
+                "spot": 5248.03,
+                "change": -0.3038576828341846
+            },
+            {
+                "symbol": "ETH",
+                "timestamp": 1733352120,
+                "bid": 5159.15,
+                "ask": 5279.19,
+                "spot": 5219.17,
+                "change": -0.5498977286259266
+            },
+            {
+                "symbol": "ETH",
+                "timestamp": 1733438520,
+                "bid": 5047.6,
+                "ask": 5165.04,
+                "spot": 5106.32,
+                "change": -2.1621557448850908
+            },
+            {
+                "symbol": "ETH",
+                "timestamp": 1733524920,
+                "bid": 4959.53,
+                "ask": 5074.93,
+                "spot": 5017.23,
+                "change": -1.7446690281777806
+            },
+            {
+                "symbol": "ETH",
+                "timestamp": 1733611320,
+                "bid": 4906.48,
+                "ask": 5020.64,
+                "spot": 4963.56,
+                "change": -1.0696507167667413
+            },
+            {
+                "symbol": "ETH",
+                "timestamp": 1733697720,
+                "bid": 4996.79,
+                "ask": 5113.05,
+                "spot": 5054.92,
+                "change": 1.8405783499401727
+            }
+        ]
+    },
+    "LTC": {
+        "id": 2,
+        "ticker": "LTC",
+        "slug": "litecoin",
+        "name": "Litecoin",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "LTC",
+                "timestamp": 1733179320,
+                "bid": 154.89,
+                "ask": 158.49,
+                "spot": 156.69,
+                "change": -1.9337435676979364
+            },
+            {
+                "symbol": "LTC",
+                "timestamp": 1733265720,
+                "bid": 157.65,
+                "ask": 161.31,
+                "spot": 159.48,
+                "change": 1.7811516618720038
+            },
+            {
+                "symbol": "LTC",
+                "timestamp": 1733352120,
+                "bid": 160.56,
+                "ask": 164.3,
+                "spot": 162.43,
+                "change": 1.8505741060546956
+            },
+            {
+                "symbol": "LTC",
+                "timestamp": 1733438520,
+                "bid": 157.63,
+                "ask": 161.29,
+                "spot": 159.46,
+                "change": -1.8274763061613135
+            },
+            {
+                "symbol": "LTC",
+                "timestamp": 1733524920,
+                "bid": 157.5,
+                "ask": 161.16,
+                "spot": 159.33,
+                "change": -0.08085595710566729
+            },
+            {
+                "symbol": "LTC",
+                "timestamp": 1733611320,
+                "bid": 156.7,
+                "ask": 160.34,
+                "spot": 158.52,
+                "change": -0.5099467783721123
+            },
+            {
+                "symbol": "LTC",
+                "timestamp": 1733697720,
+                "bid": 156.87,
+                "ask": 160.53,
+                "spot": 158.7,
+                "change": 0.1164414041207511
+            }
+        ]
+    },
+    "XRP": {
+        "id": 52,
+        "ticker": "XRP",
+        "slug": "xrp",
+        "name": "XRP",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "XRP",
+                "timestamp": 1733179320,
+                "bid": 3.11,
+                "ask": 3.19,
+                "spot": 3.15,
+                "change": -1.3517765362430838
+            },
+            {
+                "symbol": "XRP",
+                "timestamp": 1733265720,
+                "bid": 3.15,
+                "ask": 3.23,
+                "spot": 3.19,
+                "change": 1.1939599462203532
+            },
+            {
+                "symbol": "XRP",
+                "timestamp": 1733352120,
+                "bid": 3.18,
+                "ask": 3.26,
+                "spot": 3.22,
+                "change": 0.9029194983386009
+            },
+            {
+                "symbol": "XRP",
+                "timestamp": 1733438520,
+                "bid": 3.24,
+                "ask": 3.32,
+                "spot": 3.28,
+                "change": 1.980774084115862
+            },
+            {
+                "symbol": "XRP",
+                "timestamp": 1733524920,
+                "bid": 3.18,
+                "ask": 3.26,
+                "spot": 3.22,
+                "change": -1.969528729810595
+            },
+            {
+                "symbol": "XRP",
+                "timestamp": 1733611320,
+                "bid": 3.17,
+                "ask": 3.25,
+                "spot": 3.21,
+                "change": -0.1777030610563335
+            },
+            {
+                "symbol": "XRP",
+                "timestamp": 1733697720,
+                "bid": 3.19,
+                "ask": 3.27,
+                "spot": 3.23,
+                "change": 0.7456462767967036
+            }
+        ]
+    },
+    "BCH": {
+        "id": 1831,
+        "ticker": "BCH",
+        "slug": "bitcoin-cash",
+        "name": "Bitcoin Cash",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "BCH",
+                "timestamp": 1733179320,
+                "bid": 774.24,
+                "ask": 792.26,
+                "spot": 783.25,
+                "change": -2.058112613854241
+            },
+            {
+                "symbol": "BCH",
+                "timestamp": 1733265720,
+                "bid": 788.1,
+                "ask": 806.44,
+                "spot": 797.27,
+                "change": 1.790511740865469
+            },
+            {
+                "symbol": "BCH",
+                "timestamp": 1733352120,
+                "bid": 786.81,
+                "ask": 805.11,
+                "spot": 795.96,
+                "change": -0.16455990942233178
+            },
+            {
+                "symbol": "BCH",
+                "timestamp": 1733438520,
+                "bid": 786.3,
+                "ask": 804.6,
+                "spot": 795.45,
+                "change": -0.06427996039198147
+            },
+            {
+                "symbol": "BCH",
+                "timestamp": 1733524920,
+                "bid": 794.87,
+                "ask": 813.37,
+                "spot": 804.12,
+                "change": 1.0901383153366178
+            },
+            {
+                "symbol": "BCH",
+                "timestamp": 1733611320,
+                "bid": 793.72,
+                "ask": 812.18,
+                "spot": 802.95,
+                "change": -0.1451112512735242
+            },
+            {
+                "symbol": "BCH",
+                "timestamp": 1733697720,
+                "bid": 791.74,
+                "ask": 810.16,
+                "spot": 800.95,
+                "change": -0.24882094361545581
+            }
+        ]
+    },
+    "USDC": {
+        "id": 3408,
+        "ticker": "USDC",
+        "slug": "usd-coin",
+        "name": "USDC",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "USDC",
+                "timestamp": 1733179320,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": 0.8301634044759072
+            },
+            {
+                "symbol": "USDC",
+                "timestamp": 1733265720,
+                "bid": 1.38,
+                "ask": 1.42,
+                "spot": 1.4,
+                "change": -1.417431719565465
+            },
+            {
+                "symbol": "USDC",
+                "timestamp": 1733352120,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": 1.57365040999903
+            },
+            {
+                "symbol": "USDC",
+                "timestamp": 1733438520,
+                "bid": 1.39,
+                "ask": 1.43,
+                "spot": 1.41,
+                "change": -0.8084448047630373
+            },
+            {
+                "symbol": "USDC",
+                "timestamp": 1733524920,
+                "bid": 1.41,
+                "ask": 1.45,
+                "spot": 1.43,
+                "change": 1.6959136111091002
+            },
+            {
+                "symbol": "USDC",
+                "timestamp": 1733611320,
+                "bid": 1.41,
+                "ask": 1.45,
+                "spot": 1.43,
+                "change": -0.009189582234855997
+            },
+            {
+                "symbol": "USDC",
+                "timestamp": 1733697720,
+                "bid": 1.44,
+                "ask": 1.48,
+                "spot": 1.46,
+                "change": 1.9739973115291551
+            }
+        ]
+    },
+    "XMR": {
+        "id": 328,
+        "ticker": "XMR",
+        "slug": "monero",
+        "name": "Monero",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "XMR",
+                "timestamp": 1733179320,
+                "bid": 245.89,
+                "ask": 251.61,
+                "spot": 248.75,
+                "change": -1.5222794646642264
+            },
+            {
+                "symbol": "XMR",
+                "timestamp": 1733265720,
+                "bid": 244.53,
+                "ask": 250.21,
+                "spot": 247.37,
+                "change": -0.5549891451880218
+            },
+            {
+                "symbol": "XMR",
+                "timestamp": 1733352120,
+                "bid": 242.26,
+                "ask": 247.9,
+                "spot": 245.08,
+                "change": -0.9254414477469064
+            },
+            {
+                "symbol": "XMR",
+                "timestamp": 1733438520,
+                "bid": 241.39,
+                "ask": 247.01,
+                "spot": 244.2,
+                "change": -0.35910147795738423
+            },
+            {
+                "symbol": "XMR",
+                "timestamp": 1733524920,
+                "bid": 240.35,
+                "ask": 245.95,
+                "spot": 243.15,
+                "change": -0.4308259455861525
+            },
+            {
+                "symbol": "XMR",
+                "timestamp": 1733611320,
+                "bid": 243.53,
+                "ask": 249.19,
+                "spot": 246.36,
+                "change": 1.3192257109516081
+            },
+            {
+                "symbol": "XMR",
+                "timestamp": 1733697720,
+                "bid": 242.24,
+                "ask": 247.88,
+                "spot": 245.06,
+                "change": -0.5274596635655582
+            }
+        ]
+    },
+    "XLM": {
+        "id": 512,
+        "ticker": "XLM",
+        "slug": "stellar",
+        "name": "Stellar",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "XLM",
+                "timestamp": 1733179320,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": 2.0371375821514555
+            },
+            {
+                "symbol": "XLM",
+                "timestamp": 1733265720,
+                "bid": 0.57,
+                "ask": 0.59,
+                "spot": 0.58,
+                "change": -1.0477093246272244
+            },
+            {
+                "symbol": "XLM",
+                "timestamp": 1733352120,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": 1.4724842073744178
+            },
+            {
+                "symbol": "XLM",
+                "timestamp": 1733438520,
+                "bid": 0.59,
+                "ask": 0.61,
+                "spot": 0.6,
+                "change": 1.4951515628833674
+            },
+            {
+                "symbol": "XLM",
+                "timestamp": 1733524920,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": -1.789948455523405
+            },
+            {
+                "symbol": "XLM",
+                "timestamp": 1733611320,
+                "bid": 0.59,
+                "ask": 0.61,
+                "spot": 0.6,
+                "change": 2.243477019201622
+            },
+            {
+                "symbol": "XLM",
+                "timestamp": 1733697720,
+                "bid": 0.59,
+                "ask": 0.61,
+                "spot": 0.6,
+                "change": -0.4329874661522344
+            }
+        ]
+    },
+    "USDT": {
+        "id": 825,
+        "ticker": "USDT",
+        "slug": "tether",
+        "name": "Tether USDt",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "USDT",
+                "timestamp": 1733179320,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": -0.8135790030724521
+            },
+            {
+                "symbol": "USDT",
+                "timestamp": 1733265720,
+                "bid": 1.37,
+                "ask": 1.41,
+                "spot": 1.39,
+                "change": -1.9939448101753037
+            },
+            {
+                "symbol": "USDT",
+                "timestamp": 1733352120,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": 2.0449601534416226
+            },
+            {
+                "symbol": "USDT",
+                "timestamp": 1733438520,
+                "bid": 1.43,
+                "ask": 1.47,
+                "spot": 1.45,
+                "change": 1.8677814272760838
+            },
+            {
+                "symbol": "USDT",
+                "timestamp": 1733524920,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": -1.9452241541161812
+            },
+            {
+                "symbol": "USDT",
+                "timestamp": 1733611320,
+                "bid": 1.38,
+                "ask": 1.42,
+                "spot": 1.4,
+                "change": -1.660993288229828
+            },
+            {
+                "symbol": "USDT",
+                "timestamp": 1733697720,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": 1.4252150500863476
+            }
+        ]
+    },
+    "DOGE": {
+        "id": 74,
+        "ticker": "DOGE",
+        "slug": "dogecoin",
+        "name": "Dogecoin",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "DOGE",
+                "timestamp": 1733179320,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": -2.4060108897623205
+            },
+            {
+                "symbol": "DOGE",
+                "timestamp": 1733265720,
+                "bid": 0.59,
+                "ask": 0.61,
+                "spot": 0.6,
+                "change": 1.014400555016933
+            },
+            {
+                "symbol": "DOGE",
+                "timestamp": 1733352120,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": -1.2151304036241988
+            },
+            {
+                "symbol": "DOGE",
+                "timestamp": 1733438520,
+                "bid": 0.59,
+                "ask": 0.61,
+                "spot": 0.6,
+                "change": 2.437147033994079
+            },
+            {
+                "symbol": "DOGE",
+                "timestamp": 1733524920,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": -1.4375613123805002
+            },
+            {
+                "symbol": "DOGE",
+                "timestamp": 1733611320,
+                "bid": 0.59,
+                "ask": 0.61,
+                "spot": 0.6,
+                "change": 2.3103319656419394
+            },
+            {
+                "symbol": "DOGE",
+                "timestamp": 1733697720,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": -2.4069217277807633
+            }
+        ]
+    },
+    "LINK": {
+        "id": 1975,
+        "ticker": "LINK",
+        "slug": "chainlink",
+        "name": "Chainlink",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "LINK",
+                "timestamp": 1733179320,
+                "bid": 31.32,
+                "ask": 32.04,
+                "spot": 31.68,
+                "change": -1.7292256578373744
+            },
+            {
+                "symbol": "LINK",
+                "timestamp": 1733265720,
+                "bid": 30.95,
+                "ask": 31.67,
+                "spot": 31.31,
+                "change": -1.1549722944547165
+            },
+            {
+                "symbol": "LINK",
+                "timestamp": 1733352120,
+                "bid": 30.51,
+                "ask": 31.21,
+                "spot": 30.86,
+                "change": -1.4297265341526249
+            },
+            {
+                "symbol": "LINK",
+                "timestamp": 1733438520,
+                "bid": 30.32,
+                "ask": 31.02,
+                "spot": 30.67,
+                "change": -0.608619151647463
+            },
+            {
+                "symbol": "LINK",
+                "timestamp": 1733524920,
+                "bid": 30.51,
+                "ask": 31.21,
+                "spot": 30.86,
+                "change": 0.6044612672809069
+            },
+            {
+                "symbol": "LINK",
+                "timestamp": 1733611320,
+                "bid": 30.02,
+                "ask": 30.72,
+                "spot": 30.37,
+                "change": -1.574471193774269
+            },
+            {
+                "symbol": "LINK",
+                "timestamp": 1733697720,
+                "bid": 29.87,
+                "ask": 30.57,
+                "spot": 30.22,
+                "change": -0.5047106257689637
+            }
+        ]
+    },
+    "MATIC": {
+        "id": 3890,
+        "ticker": "MATIC",
+        "slug": "polygon",
+        "name": "Polygon",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "MATIC",
+                "timestamp": 1733179320,
+                "bid": 0.82,
+                "ask": 0.84,
+                "spot": 0.83,
+                "change": 1.1830617842422937
+            },
+            {
+                "symbol": "MATIC",
+                "timestamp": 1733265720,
+                "bid": 0.83,
+                "ask": 0.85,
+                "spot": 0.84,
+                "change": 1.4447919393124313
+            },
+            {
+                "symbol": "MATIC",
+                "timestamp": 1733352120,
+                "bid": 0.82,
+                "ask": 0.84,
+                "spot": 0.83,
+                "change": -1.653669563467497
+            },
+            {
+                "symbol": "MATIC",
+                "timestamp": 1733438520,
+                "bid": 0.83,
+                "ask": 0.85,
+                "spot": 0.84,
+                "change": 1.1354892654592752
+            },
+            {
+                "symbol": "MATIC",
+                "timestamp": 1733524920,
+                "bid": 0.81,
+                "ask": 0.83,
+                "spot": 0.82,
+                "change": -2.347659775905646
+            },
+            {
+                "symbol": "MATIC",
+                "timestamp": 1733611320,
+                "bid": 0.8,
+                "ask": 0.82,
+                "spot": 0.81,
+                "change": -0.8961651659368686
+            },
+            {
+                "symbol": "MATIC",
+                "timestamp": 1733697720,
+                "bid": 0.8,
+                "ask": 0.82,
+                "spot": 0.81,
+                "change": 0.46274935140084494
+            }
+        ]
+    },
+    "UNI": {
+        "id": 7083,
+        "ticker": "UNI",
+        "slug": "uniswap",
+        "name": "Uniswap",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "UNI",
+                "timestamp": 1733179320,
+                "bid": 22.48,
+                "ask": 23.0,
+                "spot": 22.74,
+                "change": -2.4494108129505547
+            },
+            {
+                "symbol": "UNI",
+                "timestamp": 1733265720,
+                "bid": 22.68,
+                "ask": 23.2,
+                "spot": 22.94,
+                "change": 0.8827714138277232
+            },
+            {
+                "symbol": "UNI",
+                "timestamp": 1733352120,
+                "bid": 22.82,
+                "ask": 23.36,
+                "spot": 23.09,
+                "change": 0.638100409123203
+            },
+            {
+                "symbol": "UNI",
+                "timestamp": 1733438520,
+                "bid": 22.89,
+                "ask": 23.43,
+                "spot": 23.16,
+                "change": 0.29629295868049565
+            },
+            {
+                "symbol": "UNI",
+                "timestamp": 1733524920,
+                "bid": 22.37,
+                "ask": 22.89,
+                "spot": 22.63,
+                "change": -2.2912710206754845
+            },
+            {
+                "symbol": "UNI",
+                "timestamp": 1733611320,
+                "bid": 22.76,
+                "ask": 23.28,
+                "spot": 23.02,
+                "change": 1.7404411179212511
+            },
+            {
+                "symbol": "UNI",
+                "timestamp": 1733697720,
+                "bid": 22.79,
+                "ask": 23.33,
+                "spot": 23.06,
+                "change": 0.15495079658693012
+            }
+        ]
+    },
+    "COMP": {
+        "id": 5692,
+        "ticker": "COMP",
+        "slug": "compound",
+        "name": "Compound",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5692.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "COMP",
+                "timestamp": 1733179320,
+                "bid": 137.27,
+                "ask": 140.47,
+                "spot": 138.87,
+                "change": 1.4958786295243325
+            },
+            {
+                "symbol": "COMP",
+                "timestamp": 1733265720,
+                "bid": 136.43,
+                "ask": 139.61,
+                "spot": 138.02,
+                "change": -0.6152909191834788
+            },
+            {
+                "symbol": "COMP",
+                "timestamp": 1733352120,
+                "bid": 133.83,
+                "ask": 136.95,
+                "spot": 135.39,
+                "change": -1.9067909691179503
+            },
+            {
+                "symbol": "COMP",
+                "timestamp": 1733438520,
+                "bid": 136.21,
+                "ask": 139.37,
+                "spot": 137.79,
+                "change": 1.774102009619301
+            },
+            {
+                "symbol": "COMP",
+                "timestamp": 1733524920,
+                "bid": 135.49,
+                "ask": 138.65,
+                "spot": 137.07,
+                "change": -0.5210249971644281
+            },
+            {
+                "symbol": "COMP",
+                "timestamp": 1733611320,
+                "bid": 136.74,
+                "ask": 139.92,
+                "spot": 138.33,
+                "change": 0.9196765129872602
+            },
+            {
+                "symbol": "COMP",
+                "timestamp": 1733697720,
+                "bid": 139.13,
+                "ask": 142.37,
+                "spot": 140.75,
+                "change": 1.7522153562041414
+            }
+        ]
+    },
+    "AAVE": {
+        "id": 7278,
+        "ticker": "AAVE",
+        "slug": "aave",
+        "name": "Aave",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "AAVE",
+                "timestamp": 1733179320,
+                "bid": 363.82,
+                "ask": 372.28,
+                "spot": 368.05,
+                "change": 1.8645619343329436
+            },
+            {
+                "symbol": "AAVE",
+                "timestamp": 1733265720,
+                "bid": 361.13,
+                "ask": 369.53,
+                "spot": 365.33,
+                "change": -0.7378093620819326
+            },
+            {
+                "symbol": "AAVE",
+                "timestamp": 1733352120,
+                "bid": 363.44,
+                "ask": 371.9,
+                "spot": 367.67,
+                "change": 0.6397027147058276
+            },
+            {
+                "symbol": "AAVE",
+                "timestamp": 1733438520,
+                "bid": 354.99,
+                "ask": 363.25,
+                "spot": 359.12,
+                "change": -2.325425823527957
+            },
+            {
+                "symbol": "AAVE",
+                "timestamp": 1733524920,
+                "bid": 352.03,
+                "ask": 360.23,
+                "spot": 356.13,
+                "change": -0.8320058416775185
+            },
+            {
+                "symbol": "AAVE",
+                "timestamp": 1733611320,
+                "bid": 358.34,
+                "ask": 366.68,
+                "spot": 362.51,
+                "change": 1.7914193740180542
+            },
+            {
+                "symbol": "AAVE",
+                "timestamp": 1733697720,
+                "bid": 361.64,
+                "ask": 370.06,
+                "spot": 365.85,
+                "change": 0.9210310685264274
+            }
+        ]
+    },
+    "DAI": {
+        "id": 4943,
+        "ticker": "DAI",
+        "slug": "multi-collateral-dai",
+        "name": "Dai",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "DAI",
+                "timestamp": 1733179320,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": -0.39151105957043786
+            },
+            {
+                "symbol": "DAI",
+                "timestamp": 1733265720,
+                "bid": 1.38,
+                "ask": 1.42,
+                "spot": 1.4,
+                "change": -1.155277204113136
+            },
+            {
+                "symbol": "DAI",
+                "timestamp": 1733352120,
+                "bid": 1.37,
+                "ask": 1.41,
+                "spot": 1.39,
+                "change": -1.048440721752311
+            },
+            {
+                "symbol": "DAI",
+                "timestamp": 1733438520,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": 2.4377498796706956
+            },
+            {
+                "symbol": "DAI",
+                "timestamp": 1733524920,
+                "bid": 1.41,
+                "ask": 1.45,
+                "spot": 1.43,
+                "change": 0.6275315895508795
+            },
+            {
+                "symbol": "DAI",
+                "timestamp": 1733611320,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": -0.7705252059811529
+            },
+            {
+                "symbol": "DAI",
+                "timestamp": 1733697720,
+                "bid": 1.38,
+                "ask": 1.42,
+                "spot": 1.4,
+                "change": -1.663599625858737
+            }
+        ]
+    },
+    "SUSHI": {
+        "id": 6758,
+        "ticker": "SUSHI",
+        "slug": "sushiswap",
+        "name": "SushiSwap",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "SUSHI",
+                "timestamp": 1733179320,
+                "bid": 2.89,
+                "ask": 2.95,
+                "spot": 2.92,
+                "change": -1.7103307839674686
+            },
+            {
+                "symbol": "SUSHI",
+                "timestamp": 1733265720,
+                "bid": 2.92,
+                "ask": 2.98,
+                "spot": 2.95,
+                "change": 1.1778489458876602
+            },
+            {
+                "symbol": "SUSHI",
+                "timestamp": 1733352120,
+                "bid": 2.97,
+                "ask": 3.03,
+                "spot": 3.0,
+                "change": 1.6511858193936932
+            },
+            {
+                "symbol": "SUSHI",
+                "timestamp": 1733438520,
+                "bid": 2.96,
+                "ask": 3.02,
+                "spot": 2.99,
+                "change": -0.3711713096621039
+            },
+            {
+                "symbol": "SUSHI",
+                "timestamp": 1733524920,
+                "bid": 2.98,
+                "ask": 3.04,
+                "spot": 3.01,
+                "change": 0.8085592086130107
+            },
+            {
+                "symbol": "SUSHI",
+                "timestamp": 1733611320,
+                "bid": 3.04,
+                "ask": 3.12,
+                "spot": 3.08,
+                "change": 2.308053687038801
+            },
+            {
+                "symbol": "SUSHI",
+                "timestamp": 1733697720,
+                "bid": 3.04,
+                "ask": 3.12,
+                "spot": 3.08,
+                "change": 0.09308511958400478
+            }
+        ]
+    },
+    "SNX": {
+        "id": 2586,
+        "ticker": "SNX",
+        "slug": "synthetix",
+        "name": "Synthetix",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "SNX",
+                "timestamp": 1733179320,
+                "bid": 3.88,
+                "ask": 3.98,
+                "spot": 3.93,
+                "change": -1.8951637975232516
+            },
+            {
+                "symbol": "SNX",
+                "timestamp": 1733265720,
+                "bid": 3.9,
+                "ask": 4.0,
+                "spot": 3.95,
+                "change": 0.38313495785436213
+            },
+            {
+                "symbol": "SNX",
+                "timestamp": 1733352120,
+                "bid": 3.88,
+                "ask": 3.98,
+                "spot": 3.93,
+                "change": -0.38769022680566056
+            },
+            {
+                "symbol": "SNX",
+                "timestamp": 1733438520,
+                "bid": 3.87,
+                "ask": 3.95,
+                "spot": 3.91,
+                "change": -0.6214700866140832
+            },
+            {
+                "symbol": "SNX",
+                "timestamp": 1733524920,
+                "bid": 3.93,
+                "ask": 4.03,
+                "spot": 3.98,
+                "change": 1.7487803167829838
+            },
+            {
+                "symbol": "SNX",
+                "timestamp": 1733611320,
+                "bid": 3.93,
+                "ask": 4.03,
+                "spot": 3.98,
+                "change": -0.1238614930177322
+            },
+            {
+                "symbol": "SNX",
+                "timestamp": 1733697720,
+                "bid": 4.02,
+                "ask": 4.12,
+                "spot": 4.07,
+                "change": 2.143853836519087
+            }
+        ]
+    },
+    "CRV": {
+        "id": 6538,
+        "ticker": "CRV",
+        "slug": "curve-dao-token",
+        "name": "Curve DAO Token",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6538.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "CRV",
+                "timestamp": 1733179320,
+                "bid": 1.48,
+                "ask": 1.52,
+                "spot": 1.5,
+                "change": -2.4459938043918337
+            },
+            {
+                "symbol": "CRV",
+                "timestamp": 1733265720,
+                "bid": 1.52,
+                "ask": 1.56,
+                "spot": 1.54,
+                "change": 2.465600390939197
+            },
+            {
+                "symbol": "CRV",
+                "timestamp": 1733352120,
+                "bid": 1.49,
+                "ask": 1.53,
+                "spot": 1.51,
+                "change": -1.7285796263604642
+            },
+            {
+                "symbol": "CRV",
+                "timestamp": 1733438520,
+                "bid": 1.51,
+                "ask": 1.55,
+                "spot": 1.53,
+                "change": 1.4025478335676809
+            },
+            {
+                "symbol": "CRV",
+                "timestamp": 1733524920,
+                "bid": 1.5,
+                "ask": 1.54,
+                "spot": 1.52,
+                "change": -0.39189198558182303
+            },
+            {
+                "symbol": "CRV",
+                "timestamp": 1733611320,
+                "bid": 1.53,
+                "ask": 1.57,
+                "spot": 1.55,
+                "change": 1.713834034601284
+            },
+            {
+                "symbol": "CRV",
+                "timestamp": 1733697720,
+                "bid": 1.5,
+                "ask": 1.54,
+                "spot": 1.52,
+                "change": -1.9466973189156644
+            }
+        ]
+    },
+    "DOT": {
+        "id": 6636,
+        "ticker": "DOT",
+        "slug": "polkadot-new",
+        "name": "Polkadot",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "DOT",
+                "timestamp": 1733179320,
+                "bid": 11.92,
+                "ask": 12.2,
+                "spot": 12.06,
+                "change": 2.3502477622625593
+            },
+            {
+                "symbol": "DOT",
+                "timestamp": 1733265720,
+                "bid": 12.02,
+                "ask": 12.3,
+                "spot": 12.16,
+                "change": 0.8584296554784716
+            },
+            {
+                "symbol": "DOT",
+                "timestamp": 1733352120,
+                "bid": 12.05,
+                "ask": 12.33,
+                "spot": 12.19,
+                "change": 0.25370732244102445
+            },
+            {
+                "symbol": "DOT",
+                "timestamp": 1733438520,
+                "bid": 11.97,
+                "ask": 12.25,
+                "spot": 12.11,
+                "change": -0.6726249317318411
+            },
+            {
+                "symbol": "DOT",
+                "timestamp": 1733524920,
+                "bid": 11.98,
+                "ask": 12.26,
+                "spot": 12.12,
+                "change": 0.0898326523767361
+            },
+            {
+                "symbol": "DOT",
+                "timestamp": 1733611320,
+                "bid": 12.04,
+                "ask": 12.32,
+                "spot": 12.18,
+                "change": 0.4949939189619963
+            },
+            {
+                "symbol": "DOT",
+                "timestamp": 1733697720,
+                "bid": 12.16,
+                "ask": 12.44,
+                "spot": 12.3,
+                "change": 0.959019577265801
+            }
+        ]
+    },
+    "YFI": {
+        "id": 5864,
+        "ticker": "YFI",
+        "slug": "yearn-finance",
+        "name": "yearn.finance",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "YFI",
+                "timestamp": 1733179320,
+                "bid": 14646.56,
+                "ask": 14987.36,
+                "spot": 14816.96,
+                "change": -1.676800447609927
+            },
+            {
+                "symbol": "YFI",
+                "timestamp": 1733265720,
+                "bid": 14903.84,
+                "ask": 15250.62,
+                "spot": 15077.23,
+                "change": 1.7565730262910915
+            },
+            {
+                "symbol": "YFI",
+                "timestamp": 1733352120,
+                "bid": 14882.08,
+                "ask": 15228.34,
+                "spot": 15055.21,
+                "change": -0.14607606886698532
+            },
+            {
+                "symbol": "YFI",
+                "timestamp": 1733438520,
+                "bid": 15096.24,
+                "ask": 15447.5,
+                "spot": 15271.87,
+                "change": 1.4391274847475555
+            },
+            {
+                "symbol": "YFI",
+                "timestamp": 1733524920,
+                "bid": 15120.4,
+                "ask": 15472.22,
+                "spot": 15296.31,
+                "change": 0.1600372314183045
+            },
+            {
+                "symbol": "YFI",
+                "timestamp": 1733611320,
+                "bid": 15473.51,
+                "ask": 15833.55,
+                "spot": 15653.53,
+                "change": 2.3353200637288145
+            },
+            {
+                "symbol": "YFI",
+                "timestamp": 1733697720,
+                "bid": 15524.02,
+                "ask": 15885.22,
+                "spot": 15704.62,
+                "change": 0.32639391509833793
+            }
+        ]
+    },
+    "MKR": {
+        "id": 1518,
+        "ticker": "MKR",
+        "slug": "maker",
+        "name": "Maker",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "MKR",
+                "timestamp": 1733179320,
+                "bid": 2648.96,
+                "ask": 2710.6,
+                "spot": 2679.78,
+                "change": -0.7526304494838354
+            },
+            {
+                "symbol": "MKR",
+                "timestamp": 1733265720,
+                "bid": 2692.98,
+                "ask": 2755.64,
+                "spot": 2724.31,
+                "change": 1.661732025829389
+            },
+            {
+                "symbol": "MKR",
+                "timestamp": 1733352120,
+                "bid": 2748.62,
+                "ask": 2812.58,
+                "spot": 2780.6,
+                "change": 2.06623970667205
+            },
+            {
+                "symbol": "MKR",
+                "timestamp": 1733438520,
+                "bid": 2680.67,
+                "ask": 2743.05,
+                "spot": 2711.86,
+                "change": -2.472271535180358
+            },
+            {
+                "symbol": "MKR",
+                "timestamp": 1733524920,
+                "bid": 2668.79,
+                "ask": 2730.89,
+                "spot": 2699.84,
+                "change": -0.4432368361413386
+            },
+            {
+                "symbol": "MKR",
+                "timestamp": 1733611320,
+                "bid": 2614.27,
+                "ask": 2675.09,
+                "spot": 2644.68,
+                "change": -2.04309913316872
+            },
+            {
+                "symbol": "MKR",
+                "timestamp": 1733697720,
+                "bid": 2567.79,
+                "ask": 2627.53,
+                "spot": 2597.66,
+                "change": -1.7777395116522516
+            }
+        ]
+    },
+    "PAXG": {
+        "id": 4705,
+        "ticker": "PAXG",
+        "slug": "pax-gold",
+        "name": "PAX Gold",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4705.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "PAXG",
+                "timestamp": 1733179320,
+                "bid": 3718.86,
+                "ask": 3805.38,
+                "spot": 3762.12,
+                "change": -1.4383394796666271
+            },
+            {
+                "symbol": "PAXG",
+                "timestamp": 1733265720,
+                "bid": 3793.16,
+                "ask": 3881.42,
+                "spot": 3837.29,
+                "change": 1.9980125843846963
+            },
+            {
+                "symbol": "PAXG",
+                "timestamp": 1733352120,
+                "bid": 3782.72,
+                "ask": 3870.74,
+                "spot": 3826.73,
+                "change": -0.2751769193023472
+            },
+            {
+                "symbol": "PAXG",
+                "timestamp": 1733438520,
+                "bid": 3782.27,
+                "ask": 3870.27,
+                "spot": 3826.27,
+                "change": -0.012022443523128423
+            },
+            {
+                "symbol": "PAXG",
+                "timestamp": 1733524920,
+                "bid": 3700.87,
+                "ask": 3786.99,
+                "spot": 3743.93,
+                "change": -2.1519982069692745
+            },
+            {
+                "symbol": "PAXG",
+                "timestamp": 1733611320,
+                "bid": 3666.73,
+                "ask": 3752.05,
+                "spot": 3709.39,
+                "change": -0.92254607471145
+            },
+            {
+                "symbol": "PAXG",
+                "timestamp": 1733697720,
+                "bid": 3598.1,
+                "ask": 3681.82,
+                "spot": 3639.96,
+                "change": -1.8718647044678898
+            }
+        ]
+    },
+    "ADA": {
+        "id": 2010,
+        "ticker": "ADA",
+        "slug": "cardano",
+        "name": "Cardano",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ADA",
+                "timestamp": 1733179320,
+                "bid": 1.41,
+                "ask": 1.45,
+                "spot": 1.43,
+                "change": 1.354419830320662
+            },
+            {
+                "symbol": "ADA",
+                "timestamp": 1733265720,
+                "bid": 1.4,
+                "ask": 1.44,
+                "spot": 1.42,
+                "change": -1.0145660872652056
+            },
+            {
+                "symbol": "ADA",
+                "timestamp": 1733352120,
+                "bid": 1.39,
+                "ask": 1.43,
+                "spot": 1.41,
+                "change": -0.4301244007235825
+            },
+            {
+                "symbol": "ADA",
+                "timestamp": 1733438520,
+                "bid": 1.39,
+                "ask": 1.43,
+                "spot": 1.41,
+                "change": 0.20668684819715066
+            },
+            {
+                "symbol": "ADA",
+                "timestamp": 1733524920,
+                "bid": 1.42,
+                "ask": 1.46,
+                "spot": 1.44,
+                "change": 2.386667523542208
+            },
+            {
+                "symbol": "ADA",
+                "timestamp": 1733611320,
+                "bid": 1.44,
+                "ask": 1.48,
+                "spot": 1.46,
+                "change": 1.0505260120266784
+            },
+            {
+                "symbol": "ADA",
+                "timestamp": 1733697720,
+                "bid": 1.41,
+                "ask": 1.45,
+                "spot": 1.43,
+                "change": -1.8977649052982526
+            }
+        ]
+    },
+    "BAT": {
+        "id": 1697,
+        "ticker": "BAT",
+        "slug": "basic-attention-token",
+        "name": "Basic Attention Token",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1697.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "BAT",
+                "timestamp": 1733179320,
+                "bid": 0.39,
+                "ask": 0.39,
+                "spot": 0.39,
+                "change": 0.02155268811004163
+            },
+            {
+                "symbol": "BAT",
+                "timestamp": 1733265720,
+                "bid": 0.38,
+                "ask": 0.38,
+                "spot": 0.38,
+                "change": -1.8675097265549467
+            },
+            {
+                "symbol": "BAT",
+                "timestamp": 1733352120,
+                "bid": 0.38,
+                "ask": 0.38,
+                "spot": 0.38,
+                "change": 0.10012649545670271
+            },
+            {
+                "symbol": "BAT",
+                "timestamp": 1733438520,
+                "bid": 0.38,
+                "ask": 0.38,
+                "spot": 0.38,
+                "change": -0.905130366521905
+            },
+            {
+                "symbol": "BAT",
+                "timestamp": 1733524920,
+                "bid": 0.39,
+                "ask": 0.39,
+                "spot": 0.39,
+                "change": 2.0241842614907863
+            },
+            {
+                "symbol": "BAT",
+                "timestamp": 1733611320,
+                "bid": 0.39,
+                "ask": 0.39,
+                "spot": 0.39,
+                "change": -1.099072952609272
+            },
+            {
+                "symbol": "BAT",
+                "timestamp": 1733697720,
+                "bid": 0.38,
+                "ask": 0.38,
+                "spot": 0.38,
+                "change": -1.9100446529006077
+            }
+        ]
+    },
+    "ENJ": {
+        "id": 2130,
+        "ticker": "ENJ",
+        "slug": "enjin-coin",
+        "name": "Enjin Coin",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2130.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ENJ",
+                "timestamp": 1733179320,
+                "bid": 0.41,
+                "ask": 0.41,
+                "spot": 0.41,
+                "change": -0.6472053197557974
+            },
+            {
+                "symbol": "ENJ",
+                "timestamp": 1733265720,
+                "bid": 0.41,
+                "ask": 0.41,
+                "spot": 0.41,
+                "change": 0.6015286115703171
+            },
+            {
+                "symbol": "ENJ",
+                "timestamp": 1733352120,
+                "bid": 0.42,
+                "ask": 0.42,
+                "spot": 0.42,
+                "change": 1.9508559384064377
+            },
+            {
+                "symbol": "ENJ",
+                "timestamp": 1733438520,
+                "bid": 0.41,
+                "ask": 0.41,
+                "spot": 0.41,
+                "change": -1.2066510526665293
+            },
+            {
+                "symbol": "ENJ",
+                "timestamp": 1733524920,
+                "bid": 0.42,
+                "ask": 0.42,
+                "spot": 0.42,
+                "change": 1.2674130474798146
+            },
+            {
+                "symbol": "ENJ",
+                "timestamp": 1733611320,
+                "bid": 0.41,
+                "ask": 0.41,
+                "spot": 0.41,
+                "change": -1.3897926335143858
+            },
+            {
+                "symbol": "ENJ",
+                "timestamp": 1733697720,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": -2.154213202943885
+            }
+        ]
+    },
+    "AXS": {
+        "id": 6783,
+        "ticker": "AXS",
+        "slug": "axie-infinity",
+        "name": "Axie Infinity",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "AXS",
+                "timestamp": 1733179320,
+                "bid": 10.74,
+                "ask": 11.0,
+                "spot": 10.87,
+                "change": 1.791579895888261
+            },
+            {
+                "symbol": "AXS",
+                "timestamp": 1733265720,
+                "bid": 10.57,
+                "ask": 10.81,
+                "spot": 10.69,
+                "change": -1.666372897466737
+            },
+            {
+                "symbol": "AXS",
+                "timestamp": 1733352120,
+                "bid": 10.81,
+                "ask": 11.07,
+                "spot": 10.94,
+                "change": 2.35529693947098
+            },
+            {
+                "symbol": "AXS",
+                "timestamp": 1733438520,
+                "bid": 10.65,
+                "ask": 10.89,
+                "spot": 10.77,
+                "change": -1.598985173603031
+            },
+            {
+                "symbol": "AXS",
+                "timestamp": 1733524920,
+                "bid": 10.85,
+                "ask": 11.11,
+                "spot": 10.98,
+                "change": 1.9844512124831928
+            },
+            {
+                "symbol": "AXS",
+                "timestamp": 1733611320,
+                "bid": 10.69,
+                "ask": 10.93,
+                "spot": 10.81,
+                "change": -1.579695385708943
+            },
+            {
+                "symbol": "AXS",
+                "timestamp": 1733697720,
+                "bid": 10.75,
+                "ask": 11.01,
+                "spot": 10.88,
+                "change": 0.6676652417030509
+            }
+        ]
+    },
+    "DASH": {
+        "id": 131,
+        "ticker": "DASH",
+        "slug": "dash",
+        "name": "Dash",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/131.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "DASH",
+                "timestamp": 1733179320,
+                "bid": 66.16,
+                "ask": 67.7,
+                "spot": 66.93,
+                "change": 1.9640698165308565
+            },
+            {
+                "symbol": "DASH",
+                "timestamp": 1733265720,
+                "bid": 64.67,
+                "ask": 66.17,
+                "spot": 65.42,
+                "change": -2.2523131332152024
+            },
+            {
+                "symbol": "DASH",
+                "timestamp": 1733352120,
+                "bid": 63.69,
+                "ask": 65.17,
+                "spot": 64.43,
+                "change": -1.5168036808491303
+            },
+            {
+                "symbol": "DASH",
+                "timestamp": 1733438520,
+                "bid": 64.16,
+                "ask": 65.66,
+                "spot": 64.91,
+                "change": 0.7439543437434852
+            },
+            {
+                "symbol": "DASH",
+                "timestamp": 1733524920,
+                "bid": 64.84,
+                "ask": 66.34,
+                "spot": 65.59,
+                "change": 1.048874792315118
+            },
+            {
+                "symbol": "DASH",
+                "timestamp": 1733611320,
+                "bid": 64.28,
+                "ask": 65.78,
+                "spot": 65.03,
+                "change": -0.8535993649436668
+            },
+            {
+                "symbol": "DASH",
+                "timestamp": 1733697720,
+                "bid": 64.49,
+                "ask": 65.99,
+                "spot": 65.24,
+                "change": 0.3270319930621648
+            }
+        ]
+    },
+    "EOS": {
+        "id": 1765,
+        "ticker": "EOS",
+        "slug": "eos",
+        "name": "EOS",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "EOS",
+                "timestamp": 1733179320,
+                "bid": 1.48,
+                "ask": 1.52,
+                "spot": 1.5,
+                "change": 0.8404400845094857
+            },
+            {
+                "symbol": "EOS",
+                "timestamp": 1733265720,
+                "bid": 1.46,
+                "ask": 1.5,
+                "spot": 1.48,
+                "change": -1.6317783934316965
+            },
+            {
+                "symbol": "EOS",
+                "timestamp": 1733352120,
+                "bid": 1.49,
+                "ask": 1.53,
+                "spot": 1.51,
+                "change": 2.0016731360347926
+            },
+            {
+                "symbol": "EOS",
+                "timestamp": 1733438520,
+                "bid": 1.5,
+                "ask": 1.54,
+                "spot": 1.52,
+                "change": 0.4793455066718222
+            },
+            {
+                "symbol": "EOS",
+                "timestamp": 1733524920,
+                "bid": 1.47,
+                "ask": 1.51,
+                "spot": 1.49,
+                "change": -2.043645747801074
+            },
+            {
+                "symbol": "EOS",
+                "timestamp": 1733611320,
+                "bid": 1.45,
+                "ask": 1.49,
+                "spot": 1.47,
+                "change": -1.2150383684102968
+            },
+            {
+                "symbol": "EOS",
+                "timestamp": 1733697720,
+                "bid": 1.42,
+                "ask": 1.46,
+                "spot": 1.44,
+                "change": -2.293079549160251
+            }
+        ]
+    },
+    "BAL": {
+        "id": 5728,
+        "ticker": "BAL",
+        "slug": "balancer",
+        "name": "Balancer",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "BAL",
+                "timestamp": 1733179320,
+                "bid": 4.57,
+                "ask": 4.67,
+                "spot": 4.62,
+                "change": 2.4331800321407693
+            },
+            {
+                "symbol": "BAL",
+                "timestamp": 1733265720,
+                "bid": 4.66,
+                "ask": 4.76,
+                "spot": 4.71,
+                "change": 1.917690662030755
+            },
+            {
+                "symbol": "BAL",
+                "timestamp": 1733352120,
+                "bid": 4.73,
+                "ask": 4.83,
+                "spot": 4.78,
+                "change": 1.4198079701349062
+            },
+            {
+                "symbol": "BAL",
+                "timestamp": 1733438520,
+                "bid": 4.83,
+                "ask": 4.95,
+                "spot": 4.89,
+                "change": 2.3980689193673506
+            },
+            {
+                "symbol": "BAL",
+                "timestamp": 1733524920,
+                "bid": 4.94,
+                "ask": 5.06,
+                "spot": 5.0,
+                "change": 2.3176607661417554
+            },
+            {
+                "symbol": "BAL",
+                "timestamp": 1733611320,
+                "bid": 4.82,
+                "ask": 4.94,
+                "spot": 4.88,
+                "change": -2.402761783479458
+            },
+            {
+                "symbol": "BAL",
+                "timestamp": 1733697720,
+                "bid": 4.81,
+                "ask": 4.93,
+                "spot": 4.87,
+                "change": -0.24777727761230217
+            }
+        ]
+    },
+    "KNC": {
+        "id": 9444,
+        "ticker": "KNC",
+        "slug": "kyber-network-crystal-v2",
+        "name": "Kyber Network Crystal v2",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "KNC",
+                "timestamp": 1733179320,
+                "bid": 0.95,
+                "ask": 0.97,
+                "spot": 0.96,
+                "change": 1.9196479898749779
+            },
+            {
+                "symbol": "KNC",
+                "timestamp": 1733265720,
+                "bid": 0.93,
+                "ask": 0.95,
+                "spot": 0.94,
+                "change": -1.9553895237602577
+            },
+            {
+                "symbol": "KNC",
+                "timestamp": 1733352120,
+                "bid": 0.95,
+                "ask": 0.97,
+                "spot": 0.96,
+                "change": 1.9611918434550022
+            },
+            {
+                "symbol": "KNC",
+                "timestamp": 1733438520,
+                "bid": 0.95,
+                "ask": 0.97,
+                "spot": 0.96,
+                "change": -0.2087074888180549
+            },
+            {
+                "symbol": "KNC",
+                "timestamp": 1733524920,
+                "bid": 0.95,
+                "ask": 0.97,
+                "spot": 0.96,
+                "change": 0.4672979166134543
+            },
+            {
+                "symbol": "KNC",
+                "timestamp": 1733611320,
+                "bid": 0.93,
+                "ask": 0.95,
+                "spot": 0.94,
+                "change": -1.81715330871471
+            },
+            {
+                "symbol": "KNC",
+                "timestamp": 1733697720,
+                "bid": 0.91,
+                "ask": 0.93,
+                "spot": 0.92,
+                "change": -1.877637575009773
+            }
+        ]
+    },
+    "ZRX": {
+        "id": 1896,
+        "ticker": "ZRX",
+        "slug": "0x",
+        "name": "0x Protocol",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1896.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ZRX",
+                "timestamp": 1733179320,
+                "bid": 0.86,
+                "ask": 0.88,
+                "spot": 0.87,
+                "change": 1.809349706780253
+            },
+            {
+                "symbol": "ZRX",
+                "timestamp": 1733265720,
+                "bid": 0.87,
+                "ask": 0.89,
+                "spot": 0.88,
+                "change": 1.6265407132966097
+            },
+            {
+                "symbol": "ZRX",
+                "timestamp": 1733352120,
+                "bid": 0.86,
+                "ask": 0.88,
+                "spot": 0.87,
+                "change": -0.5734258476961307
+            },
+            {
+                "symbol": "ZRX",
+                "timestamp": 1733438520,
+                "bid": 0.86,
+                "ask": 0.88,
+                "spot": 0.87,
+                "change": 0.16837417417100387
+            },
+            {
+                "symbol": "ZRX",
+                "timestamp": 1733524920,
+                "bid": 0.86,
+                "ask": 0.88,
+                "spot": 0.87,
+                "change": 0.4528936022782797
+            },
+            {
+                "symbol": "ZRX",
+                "timestamp": 1733611320,
+                "bid": 0.87,
+                "ask": 0.89,
+                "spot": 0.88,
+                "change": 0.8162917894866109
+            },
+            {
+                "symbol": "ZRX",
+                "timestamp": 1733697720,
+                "bid": 0.88,
+                "ask": 0.9,
+                "spot": 0.89,
+                "change": 1.4257595983165423
+            }
+        ]
+    },
+    "SAND": {
+        "id": 6210,
+        "ticker": "SAND",
+        "slug": "the-sandbox",
+        "name": "The Sandbox",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "SAND",
+                "timestamp": 1733179320,
+                "bid": 1.04,
+                "ask": 1.06,
+                "spot": 1.05,
+                "change": 0.5938075843088813
+            },
+            {
+                "symbol": "SAND",
+                "timestamp": 1733265720,
+                "bid": 1.02,
+                "ask": 1.04,
+                "spot": 1.03,
+                "change": -1.8665477836762228
+            },
+            {
+                "symbol": "SAND",
+                "timestamp": 1733352120,
+                "bid": 1.02,
+                "ask": 1.04,
+                "spot": 1.03,
+                "change": 0.23209710986660648
+            },
+            {
+                "symbol": "SAND",
+                "timestamp": 1733438520,
+                "bid": 1.04,
+                "ask": 1.06,
+                "spot": 1.05,
+                "change": 2.2082695938313144
+            },
+            {
+                "symbol": "SAND",
+                "timestamp": 1733524920,
+                "bid": 1.04,
+                "ask": 1.06,
+                "spot": 1.05,
+                "change": -0.3302028151099119
+            },
+            {
+                "symbol": "SAND",
+                "timestamp": 1733611320,
+                "bid": 1.03,
+                "ask": 1.05,
+                "spot": 1.04,
+                "change": -0.9838387266473425
+            },
+            {
+                "symbol": "SAND",
+                "timestamp": 1733697720,
+                "bid": 1.04,
+                "ask": 1.06,
+                "spot": 1.05,
+                "change": 1.0997633626282384
+            }
+        ]
+    },
+    "GRT": {
+        "id": 6719,
+        "ticker": "GRT",
+        "slug": "the-graph",
+        "name": "The Graph",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "GRT",
+                "timestamp": 1733179320,
+                "bid": 0.38,
+                "ask": 0.38,
+                "spot": 0.38,
+                "change": -1.0106765828690412
+            },
+            {
+                "symbol": "GRT",
+                "timestamp": 1733265720,
+                "bid": 0.37,
+                "ask": 0.37,
+                "spot": 0.37,
+                "change": -1.4631660288671862
+            },
+            {
+                "symbol": "GRT",
+                "timestamp": 1733352120,
+                "bid": 0.37,
+                "ask": 0.37,
+                "spot": 0.37,
+                "change": -1.130837282554038
+            },
+            {
+                "symbol": "GRT",
+                "timestamp": 1733438520,
+                "bid": 0.36,
+                "ask": 0.36,
+                "spot": 0.36,
+                "change": -2.208852503824632
+            },
+            {
+                "symbol": "GRT",
+                "timestamp": 1733524920,
+                "bid": 0.37,
+                "ask": 0.37,
+                "spot": 0.37,
+                "change": 2.458144517731818
+            },
+            {
+                "symbol": "GRT",
+                "timestamp": 1733611320,
+                "bid": 0.38,
+                "ask": 0.38,
+                "spot": 0.38,
+                "change": 1.4579471469361582
+            },
+            {
+                "symbol": "GRT",
+                "timestamp": 1733697720,
+                "bid": 0.37,
+                "ask": 0.37,
+                "spot": 0.37,
+                "change": -2.1707259076728564
+            }
+        ]
+    },
+    "QNT": {
+        "id": 3155,
+        "ticker": "QNT",
+        "slug": "quant",
+        "name": "Quant",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "QNT",
+                "timestamp": 1733179320,
+                "bid": 192.04,
+                "ask": 196.5,
+                "spot": 194.27,
+                "change": -0.10986585728792075
+            },
+            {
+                "symbol": "QNT",
+                "timestamp": 1733265720,
+                "bid": 189.52,
+                "ask": 193.92,
+                "spot": 191.72,
+                "change": -1.3139088418380935
+            },
+            {
+                "symbol": "QNT",
+                "timestamp": 1733352120,
+                "bid": 192.36,
+                "ask": 196.84,
+                "spot": 194.6,
+                "change": 1.5036304740614383
+            },
+            {
+                "symbol": "QNT",
+                "timestamp": 1733438520,
+                "bid": 191.71,
+                "ask": 196.17,
+                "spot": 193.94,
+                "change": -0.34157412293048495
+            },
+            {
+                "symbol": "QNT",
+                "timestamp": 1733524920,
+                "bid": 189.09,
+                "ask": 193.49,
+                "spot": 191.29,
+                "change": -1.3672425606525307
+            },
+            {
+                "symbol": "QNT",
+                "timestamp": 1733611320,
+                "bid": 191.29,
+                "ask": 195.75,
+                "spot": 193.52,
+                "change": 1.1662148230926785
+            },
+            {
+                "symbol": "QNT",
+                "timestamp": 1733697720,
+                "bid": 189.33,
+                "ask": 193.73,
+                "spot": 191.53,
+                "change": -1.0288102122729086
+            }
+        ]
+    },
+    "ETC": {
+        "id": 1321,
+        "ticker": "ETC",
+        "slug": "ethereum-classic",
+        "name": "Ethereum Classic",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ETC",
+                "timestamp": 1733179320,
+                "bid": 44.02,
+                "ask": 45.04,
+                "spot": 44.53,
+                "change": -2.334636164974528
+            },
+            {
+                "symbol": "ETC",
+                "timestamp": 1733265720,
+                "bid": 43.42,
+                "ask": 44.44,
+                "spot": 43.93,
+                "change": -1.3489243457882698
+            },
+            {
+                "symbol": "ETC",
+                "timestamp": 1733352120,
+                "bid": 44.24,
+                "ask": 45.26,
+                "spot": 44.75,
+                "change": 1.8721807213411399
+            },
+            {
+                "symbol": "ETC",
+                "timestamp": 1733438520,
+                "bid": 43.76,
+                "ask": 44.78,
+                "spot": 44.27,
+                "change": -1.080393489167687
+            },
+            {
+                "symbol": "ETC",
+                "timestamp": 1733524920,
+                "bid": 43.49,
+                "ask": 44.51,
+                "spot": 44.0,
+                "change": -0.6047800460958885
+            },
+            {
+                "symbol": "ETC",
+                "timestamp": 1733611320,
+                "bid": 43.71,
+                "ask": 44.73,
+                "spot": 44.22,
+                "change": 0.4937762361376201
+            },
+            {
+                "symbol": "ETC",
+                "timestamp": 1733697720,
+                "bid": 44.44,
+                "ask": 45.48,
+                "spot": 44.96,
+                "change": 1.6759700967261786
+            }
+        ]
+    },
+    "ETHW": {
+        "id": 21296,
+        "ticker": "ETHW",
+        "slug": "ethereum-pow",
+        "name": "EthereumPoW",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/21296.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ETHW",
+                "timestamp": 1733179320,
+                "bid": 5.85,
+                "ask": 5.99,
+                "spot": 5.92,
+                "change": 1.7036314153634162
+            },
+            {
+                "symbol": "ETHW",
+                "timestamp": 1733265720,
+                "bid": 5.92,
+                "ask": 6.06,
+                "spot": 5.99,
+                "change": 1.2394012377552874
+            },
+            {
+                "symbol": "ETHW",
+                "timestamp": 1733352120,
+                "bid": 6.01,
+                "ask": 6.15,
+                "spot": 6.08,
+                "change": 1.5817030196350128
+            },
+            {
+                "symbol": "ETHW",
+                "timestamp": 1733438520,
+                "bid": 5.91,
+                "ask": 6.05,
+                "spot": 5.98,
+                "change": -1.7170023585449852
+            },
+            {
+                "symbol": "ETHW",
+                "timestamp": 1733524920,
+                "bid": 5.79,
+                "ask": 5.93,
+                "spot": 5.86,
+                "change": -2.0845921064703794
+            },
+            {
+                "symbol": "ETHW",
+                "timestamp": 1733611320,
+                "bid": 5.66,
+                "ask": 5.8,
+                "spot": 5.73,
+                "change": -2.285632207817019
+            },
+            {
+                "symbol": "ETHW",
+                "timestamp": 1733697720,
+                "bid": 5.8,
+                "ask": 5.94,
+                "spot": 5.87,
+                "change": 2.4742738193963154
+            }
+        ]
+    },
+    "1INCH": {
+        "id": 8104,
+        "ticker": "1INCH",
+        "slug": "1inch",
+        "name": "1inch Network",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "1INCH",
+                "timestamp": 1733179320,
+                "bid": 0.67,
+                "ask": 0.69,
+                "spot": 0.68,
+                "change": -0.7028865951207437
+            },
+            {
+                "symbol": "1INCH",
+                "timestamp": 1733265720,
+                "bid": 0.66,
+                "ask": 0.68,
+                "spot": 0.67,
+                "change": -0.848257669365629
+            },
+            {
+                "symbol": "1INCH",
+                "timestamp": 1733352120,
+                "bid": 0.66,
+                "ask": 0.68,
+                "spot": 0.67,
+                "change": -0.26150745432723443
+            },
+            {
+                "symbol": "1INCH",
+                "timestamp": 1733438520,
+                "bid": 0.67,
+                "ask": 0.69,
+                "spot": 0.68,
+                "change": 0.760881756530055
+            },
+            {
+                "symbol": "1INCH",
+                "timestamp": 1733524920,
+                "bid": 0.65,
+                "ask": 0.67,
+                "spot": 0.66,
+                "change": -2.2135578337201
+            },
+            {
+                "symbol": "1INCH",
+                "timestamp": 1733611320,
+                "bid": 0.65,
+                "ask": 0.67,
+                "spot": 0.66,
+                "change": -0.16147382435417468
+            },
+            {
+                "symbol": "1INCH",
+                "timestamp": 1733697720,
+                "bid": 0.64,
+                "ask": 0.66,
+                "spot": 0.65,
+                "change": -2.2343652469840074
+            }
+        ]
+    },
+    "CHZ": {
+        "id": 4066,
+        "ticker": "CHZ",
+        "slug": "chiliz",
+        "name": "Chiliz",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "CHZ",
+                "timestamp": 1733179320,
+                "bid": 0.15,
+                "ask": 0.15,
+                "spot": 0.15,
+                "change": 0.8184703973369034
+            },
+            {
+                "symbol": "CHZ",
+                "timestamp": 1733265720,
+                "bid": 0.15,
+                "ask": 0.15,
+                "spot": 0.15,
+                "change": -2.1126733866344676
+            },
+            {
+                "symbol": "CHZ",
+                "timestamp": 1733352120,
+                "bid": 0.15,
+                "ask": 0.15,
+                "spot": 0.15,
+                "change": -2.0203998701197707
+            },
+            {
+                "symbol": "CHZ",
+                "timestamp": 1733438520,
+                "bid": 0.15,
+                "ask": 0.15,
+                "spot": 0.15,
+                "change": 1.1424583052484434
+            },
+            {
+                "symbol": "CHZ",
+                "timestamp": 1733524920,
+                "bid": 0.15,
+                "ask": 0.15,
+                "spot": 0.15,
+                "change": 1.0252503681844471
+            },
+            {
+                "symbol": "CHZ",
+                "timestamp": 1733611320,
+                "bid": 0.15,
+                "ask": 0.15,
+                "spot": 0.15,
+                "change": -1.4577604153526058
+            },
+            {
+                "symbol": "CHZ",
+                "timestamp": 1733697720,
+                "bid": 0.15,
+                "ask": 0.15,
+                "spot": 0.15,
+                "change": 1.1005055916320883
+            }
+        ]
+    },
+    "CHR": {
+        "id": 3978,
+        "ticker": "CHR",
+        "slug": "chromia",
+        "name": "Chromia",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3978.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "CHR",
+                "timestamp": 1733179320,
+                "bid": 0.39,
+                "ask": 0.39,
+                "spot": 0.39,
+                "change": 0.28773170393765213
+            },
+            {
+                "symbol": "CHR",
+                "timestamp": 1733265720,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": 1.4072816888932476
+            },
+            {
+                "symbol": "CHR",
+                "timestamp": 1733352120,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": -0.5631959141775811
+            },
+            {
+                "symbol": "CHR",
+                "timestamp": 1733438520,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": -1.1025825392893895
+            },
+            {
+                "symbol": "CHR",
+                "timestamp": 1733524920,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": 0.4925390874659308
+            },
+            {
+                "symbol": "CHR",
+                "timestamp": 1733611320,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": -1.0912356107979497
+            },
+            {
+                "symbol": "CHR",
+                "timestamp": 1733697720,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": 0.9379906185012481
+            }
+        ]
+    },
+    "SUPER": {
+        "id": 8290,
+        "ticker": "SUPER",
+        "slug": "superverse",
+        "name": "SuperVerse",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8290.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "SUPER",
+                "timestamp": 1733179320,
+                "bid": 2.82,
+                "ask": 2.88,
+                "spot": 2.85,
+                "change": 0.9006995383520056
+            },
+            {
+                "symbol": "SUPER",
+                "timestamp": 1733265720,
+                "bid": 2.82,
+                "ask": 2.88,
+                "spot": 2.85,
+                "change": -0.14597616050110052
+            },
+            {
+                "symbol": "SUPER",
+                "timestamp": 1733352120,
+                "bid": 2.82,
+                "ask": 2.88,
+                "spot": 2.85,
+                "change": 0.11274593772721353
+            },
+            {
+                "symbol": "SUPER",
+                "timestamp": 1733438520,
+                "bid": 2.89,
+                "ask": 2.95,
+                "spot": 2.92,
+                "change": 2.4111396078876997
+            },
+            {
+                "symbol": "SUPER",
+                "timestamp": 1733524920,
+                "bid": 2.91,
+                "ask": 2.97,
+                "spot": 2.94,
+                "change": 0.6553321754885681
+            },
+            {
+                "symbol": "SUPER",
+                "timestamp": 1733611320,
+                "bid": 2.93,
+                "ask": 2.99,
+                "spot": 2.96,
+                "change": 0.7843477977017717
+            },
+            {
+                "symbol": "SUPER",
+                "timestamp": 1733697720,
+                "bid": 2.95,
+                "ask": 3.01,
+                "spot": 2.98,
+                "change": 0.834298001285037
+            }
+        ]
+    },
+    "ELF": {
+        "id": 2299,
+        "ticker": "ELF",
+        "slug": "aelf",
+        "name": "aelf",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2299.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ELF",
+                "timestamp": 1733179320,
+                "bid": 0.72,
+                "ask": 0.74,
+                "spot": 0.73,
+                "change": -1.069739922235549
+            },
+            {
+                "symbol": "ELF",
+                "timestamp": 1733265720,
+                "bid": 0.72,
+                "ask": 0.74,
+                "spot": 0.73,
+                "change": -0.5310543811735129
+            },
+            {
+                "symbol": "ELF",
+                "timestamp": 1733352120,
+                "bid": 0.73,
+                "ask": 0.75,
+                "spot": 0.74,
+                "change": 1.8975012248569323
+            },
+            {
+                "symbol": "ELF",
+                "timestamp": 1733438520,
+                "bid": 0.74,
+                "ask": 0.76,
+                "spot": 0.75,
+                "change": 1.095468844061696
+            },
+            {
+                "symbol": "ELF",
+                "timestamp": 1733524920,
+                "bid": 0.75,
+                "ask": 0.77,
+                "spot": 0.76,
+                "change": 1.4844543371204155
+            },
+            {
+                "symbol": "ELF",
+                "timestamp": 1733611320,
+                "bid": 0.74,
+                "ask": 0.76,
+                "spot": 0.75,
+                "change": -1.1497082295473433
+            },
+            {
+                "symbol": "ELF",
+                "timestamp": 1733697720,
+                "bid": 0.75,
+                "ask": 0.77,
+                "spot": 0.76,
+                "change": 1.0857192985929016
+            }
+        ]
+    },
+    "OMG": {
+        "id": 1808,
+        "ticker": "OMG",
+        "slug": "omg",
+        "name": "OMG Network",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "OMG",
+                "timestamp": 1733179320,
+                "bid": 0.64,
+                "ask": 0.66,
+                "spot": 0.65,
+                "change": -1.6816335895721812
+            },
+            {
+                "symbol": "OMG",
+                "timestamp": 1733265720,
+                "bid": 0.63,
+                "ask": 0.65,
+                "spot": 0.64,
+                "change": -1.4833304788935209
+            },
+            {
+                "symbol": "OMG",
+                "timestamp": 1733352120,
+                "bid": 0.63,
+                "ask": 0.65,
+                "spot": 0.64,
+                "change": -0.2124311807322341
+            },
+            {
+                "symbol": "OMG",
+                "timestamp": 1733438520,
+                "bid": 0.64,
+                "ask": 0.66,
+                "spot": 0.65,
+                "change": 1.3356918355155551
+            },
+            {
+                "symbol": "OMG",
+                "timestamp": 1733524920,
+                "bid": 0.65,
+                "ask": 0.67,
+                "spot": 0.66,
+                "change": 2.2222658218241103
+            },
+            {
+                "symbol": "OMG",
+                "timestamp": 1733611320,
+                "bid": 0.67,
+                "ask": 0.69,
+                "spot": 0.68,
+                "change": 2.4114261132006307
+            },
+            {
+                "symbol": "OMG",
+                "timestamp": 1733697720,
+                "bid": 0.69,
+                "ask": 0.71,
+                "spot": 0.7,
+                "change": 2.4694727253543576
+            }
+        ]
+    },
+    "FTM": {
+        "id": 3513,
+        "ticker": "FTM",
+        "slug": "fantom",
+        "name": "Fantom",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "FTM",
+                "timestamp": 1733179320,
+                "bid": 1.58,
+                "ask": 1.62,
+                "spot": 1.6,
+                "change": 1.5728601511224056
+            },
+            {
+                "symbol": "FTM",
+                "timestamp": 1733265720,
+                "bid": 1.6,
+                "ask": 1.64,
+                "spot": 1.62,
+                "change": 1.4414334606175991
+            },
+            {
+                "symbol": "FTM",
+                "timestamp": 1733352120,
+                "bid": 1.63,
+                "ask": 1.67,
+                "spot": 1.65,
+                "change": 2.1369752433267095
+            },
+            {
+                "symbol": "FTM",
+                "timestamp": 1733438520,
+                "bid": 1.63,
+                "ask": 1.67,
+                "spot": 1.65,
+                "change": -0.05282184346297569
+            },
+            {
+                "symbol": "FTM",
+                "timestamp": 1733524920,
+                "bid": 1.64,
+                "ask": 1.68,
+                "spot": 1.66,
+                "change": 0.5137681691318812
+            },
+            {
+                "symbol": "FTM",
+                "timestamp": 1733611320,
+                "bid": 1.6,
+                "ask": 1.64,
+                "spot": 1.62,
+                "change": -2.486759455506784
+            },
+            {
+                "symbol": "FTM",
+                "timestamp": 1733697720,
+                "bid": 1.62,
+                "ask": 1.66,
+                "spot": 1.64,
+                "change": 1.4858051327488608
+            }
+        ]
+    },
+    "MANA": {
+        "id": 1966,
+        "ticker": "MANA",
+        "slug": "decentraland",
+        "name": "Decentraland",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "MANA",
+                "timestamp": 1733179320,
+                "bid": 0.85,
+                "ask": 0.87,
+                "spot": 0.86,
+                "change": -0.141748158885858
+            },
+            {
+                "symbol": "MANA",
+                "timestamp": 1733265720,
+                "bid": 0.83,
+                "ask": 0.85,
+                "spot": 0.84,
+                "change": -1.9024268543057503
+            },
+            {
+                "symbol": "MANA",
+                "timestamp": 1733352120,
+                "bid": 0.85,
+                "ask": 0.87,
+                "spot": 0.86,
+                "change": 2.121705662051621
+            },
+            {
+                "symbol": "MANA",
+                "timestamp": 1733438520,
+                "bid": 0.86,
+                "ask": 0.88,
+                "spot": 0.87,
+                "change": 0.8543152940319434
+            },
+            {
+                "symbol": "MANA",
+                "timestamp": 1733524920,
+                "bid": 0.88,
+                "ask": 0.9,
+                "spot": 0.89,
+                "change": 2.3841900615512355
+            },
+            {
+                "symbol": "MANA",
+                "timestamp": 1733611320,
+                "bid": 0.9,
+                "ask": 0.92,
+                "spot": 0.91,
+                "change": 2.018746361833398
+            },
+            {
+                "symbol": "MANA",
+                "timestamp": 1733697720,
+                "bid": 0.91,
+                "ask": 0.93,
+                "spot": 0.92,
+                "change": 1.5096544126581897
+            }
+        ]
+    },
+    "SOL": {
+        "id": 5426,
+        "ticker": "SOL",
+        "slug": "solana",
+        "name": "Solana",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "SOL",
+                "timestamp": 1733179320,
+                "bid": 304.77,
+                "ask": 311.87,
+                "spot": 308.32,
+                "change": -0.172317539010872
+            },
+            {
+                "symbol": "SOL",
+                "timestamp": 1733265720,
+                "bid": 300.22,
+                "ask": 307.2,
+                "spot": 303.71,
+                "change": -1.4937174805167146
+            },
+            {
+                "symbol": "SOL",
+                "timestamp": 1733352120,
+                "bid": 301.36,
+                "ask": 308.38,
+                "spot": 304.87,
+                "change": 0.3810296907028037
+            },
+            {
+                "symbol": "SOL",
+                "timestamp": 1733438520,
+                "bid": 298.71,
+                "ask": 305.67,
+                "spot": 302.19,
+                "change": -0.880647107581896
+            },
+            {
+                "symbol": "SOL",
+                "timestamp": 1733524920,
+                "bid": 296.65,
+                "ask": 303.55,
+                "spot": 300.1,
+                "change": -0.6925171648564021
+            },
+            {
+                "symbol": "SOL",
+                "timestamp": 1733611320,
+                "bid": 301.23,
+                "ask": 308.23,
+                "spot": 304.73,
+                "change": 1.5428137291306667
+            },
+            {
+                "symbol": "SOL",
+                "timestamp": 1733697720,
+                "bid": 299.64,
+                "ask": 306.62,
+                "spot": 303.13,
+                "change": -0.5258778449135777
+            }
+        ]
+    },
+    "ALGO": {
+        "id": 4030,
+        "ticker": "ALGO",
+        "slug": "algorand",
+        "name": "Algorand",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ALGO",
+                "timestamp": 1733179320,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": 2.0881809224717536
+            },
+            {
+                "symbol": "ALGO",
+                "timestamp": 1733265720,
+                "bid": 0.57,
+                "ask": 0.59,
+                "spot": 0.58,
+                "change": -1.4657121388537968
+            },
+            {
+                "symbol": "ALGO",
+                "timestamp": 1733352120,
+                "bid": 0.58,
+                "ask": 0.6,
+                "spot": 0.59,
+                "change": 2.3293445748969663
+            },
+            {
+                "symbol": "ALGO",
+                "timestamp": 1733438520,
+                "bid": 0.59,
+                "ask": 0.61,
+                "spot": 0.6,
+                "change": 0.9474899844196454
+            },
+            {
+                "symbol": "ALGO",
+                "timestamp": 1733524920,
+                "bid": 0.6,
+                "ask": 0.62,
+                "spot": 0.61,
+                "change": 2.166958614270272
+            },
+            {
+                "symbol": "ALGO",
+                "timestamp": 1733611320,
+                "bid": 0.6,
+                "ask": 0.62,
+                "spot": 0.61,
+                "change": -0.5248476868916374
+            },
+            {
+                "symbol": "ALGO",
+                "timestamp": 1733697720,
+                "bid": 0.59,
+                "ask": 0.61,
+                "spot": 0.6,
+                "change": -1.100497131152255
+            }
+        ]
+    },
+    "LUNC": {
+        "id": 4172,
+        "ticker": "LUNC",
+        "slug": "terra-luna",
+        "name": "Terra Classic",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4172.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "LUNC",
+                "timestamp": 1733179320,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": -1.6457994628839363
+            },
+            {
+                "symbol": "LUNC",
+                "timestamp": 1733265720,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": -0.11062995517730556
+            },
+            {
+                "symbol": "LUNC",
+                "timestamp": 1733352120,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": 1.7763396299119307
+            },
+            {
+                "symbol": "LUNC",
+                "timestamp": 1733438520,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": -1.3528190181845097
+            },
+            {
+                "symbol": "LUNC",
+                "timestamp": 1733524920,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": 1.1572314113712916
+            },
+            {
+                "symbol": "LUNC",
+                "timestamp": 1733611320,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": 1.047083161436297
+            },
+            {
+                "symbol": "LUNC",
+                "timestamp": 1733697720,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": -1.2650605860953008
+            }
+        ]
+    },
+    "UST": {
+        "id": 0,
+        "ticker": "UST",
+        "slug": "terraclassicusd",
+        "name": "TerraClassicUSD",
+        "iconUrl": "https://dynamic-assets.coinbase.com/1e580dcd11e3de567fed89d31839742c7f2d6a70f43a11afb4d274e010dbdefa703b843d07e2d7e515cc2e79a4e4137d1495f502956f8fa535734c9cb444cdf4/asset_icons/fb8c61cd75d40986cdb8ebc0ea3b0ad8c42fd26b32167c1c83abc12b92acfaef.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "UST",
+                "timestamp": 1733179320,
+                "bid": 0.03,
+                "ask": 0.03,
+                "spot": 0.03,
+                "change": -0.5805855176623202
+            },
+            {
+                "symbol": "UST",
+                "timestamp": 1733265720,
+                "bid": 0.03,
+                "ask": 0.03,
+                "spot": 0.03,
+                "change": -2.4181354817131053
+            },
+            {
+                "symbol": "UST",
+                "timestamp": 1733352120,
+                "bid": 0.03,
+                "ask": 0.03,
+                "spot": 0.03,
+                "change": 2.3748748747590485
+            },
+            {
+                "symbol": "UST",
+                "timestamp": 1733438520,
+                "bid": 0.03,
+                "ask": 0.03,
+                "spot": 0.03,
+                "change": 0.14740919164320232
+            },
+            {
+                "symbol": "UST",
+                "timestamp": 1733524920,
+                "bid": 0.03,
+                "ask": 0.03,
+                "spot": 0.03,
+                "change": -0.8774123224665331
+            },
+            {
+                "symbol": "UST",
+                "timestamp": 1733611320,
+                "bid": 0.03,
+                "ask": 0.03,
+                "spot": 0.03,
+                "change": 1.5941860595753026
+            },
+            {
+                "symbol": "UST",
+                "timestamp": 1733697720,
+                "bid": 0.03,
+                "ask": 0.03,
+                "spot": 0.03,
+                "change": 2.079547336356786
+            }
+        ]
+    },
+    "ZEC": {
+        "id": 1437,
+        "ticker": "ZEC",
+        "slug": "zcash",
+        "name": "Zcash",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ZEC",
+                "timestamp": 1733179320,
+                "bid": 82.28,
+                "ask": 84.2,
+                "spot": 83.24,
+                "change": -0.47529755807766705
+            },
+            {
+                "symbol": "ZEC",
+                "timestamp": 1733265720,
+                "bid": 81.84,
+                "ask": 83.74,
+                "spot": 82.79,
+                "change": -0.5441943432540997
+            },
+            {
+                "symbol": "ZEC",
+                "timestamp": 1733352120,
+                "bid": 82.64,
+                "ask": 84.56,
+                "spot": 83.6,
+                "change": 0.9778703157851614
+            },
+            {
+                "symbol": "ZEC",
+                "timestamp": 1733438520,
+                "bid": 82.68,
+                "ask": 84.6,
+                "spot": 83.64,
+                "change": 0.050030753844712006
+            },
+            {
+                "symbol": "ZEC",
+                "timestamp": 1733524920,
+                "bid": 80.89,
+                "ask": 82.77,
+                "spot": 81.83,
+                "change": -2.158527735987403
+            },
+            {
+                "symbol": "ZEC",
+                "timestamp": 1733611320,
+                "bid": 82.21,
+                "ask": 84.13,
+                "spot": 83.17,
+                "change": 1.6433365073133883
+            },
+            {
+                "symbol": "ZEC",
+                "timestamp": 1733697720,
+                "bid": 82.02,
+                "ask": 83.92,
+                "spot": 82.97,
+                "change": -0.2359365929196935
+            }
+        ]
+    },
+    "XTZ": {
+        "id": 2011,
+        "ticker": "XTZ",
+        "slug": "tezos",
+        "name": "Tezos",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "XTZ",
+                "timestamp": 1733179320,
+                "bid": 2.02,
+                "ask": 2.06,
+                "spot": 2.04,
+                "change": -0.19452907280319565
+            },
+            {
+                "symbol": "XTZ",
+                "timestamp": 1733265720,
+                "bid": 2.03,
+                "ask": 2.07,
+                "spot": 2.05,
+                "change": 0.6952035125153277
+            },
+            {
+                "symbol": "XTZ",
+                "timestamp": 1733352120,
+                "bid": 2.08,
+                "ask": 2.12,
+                "spot": 2.1,
+                "change": 2.337153967519514
+            },
+            {
+                "symbol": "XTZ",
+                "timestamp": 1733438520,
+                "bid": 2.06,
+                "ask": 2.1,
+                "spot": 2.08,
+                "change": -0.8210742653605985
+            },
+            {
+                "symbol": "XTZ",
+                "timestamp": 1733524920,
+                "bid": 2.07,
+                "ask": 2.11,
+                "spot": 2.09,
+                "change": 0.6936115641201317
+            },
+            {
+                "symbol": "XTZ",
+                "timestamp": 1733611320,
+                "bid": 2.08,
+                "ask": 2.12,
+                "spot": 2.1,
+                "change": 0.6549688178288493
+            },
+            {
+                "symbol": "XTZ",
+                "timestamp": 1733697720,
+                "bid": 2.1,
+                "ask": 2.14,
+                "spot": 2.12,
+                "change": 1.0637084186001005
+            }
+        ]
+    },
+    "AMP": {
+        "id": 6945,
+        "ticker": "AMP",
+        "slug": "amp",
+        "name": "Amp",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6945.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "AMP",
+                "timestamp": 1733179320,
+                "bid": 0.01,
+                "ask": 0.01,
+                "spot": 0.01,
+                "change": -1.0608863723837763
+            },
+            {
+                "symbol": "AMP",
+                "timestamp": 1733265720,
+                "bid": 0.01,
+                "ask": 0.01,
+                "spot": 0.01,
+                "change": 2.2040124046716327
+            },
+            {
+                "symbol": "AMP",
+                "timestamp": 1733352120,
+                "bid": 0.01,
+                "ask": 0.01,
+                "spot": 0.01,
+                "change": 0.19893085491224305
+            },
+            {
+                "symbol": "AMP",
+                "timestamp": 1733438520,
+                "bid": 0.01,
+                "ask": 0.01,
+                "spot": 0.01,
+                "change": -1.2638854709080827
+            },
+            {
+                "symbol": "AMP",
+                "timestamp": 1733524920,
+                "bid": 0.01,
+                "ask": 0.01,
+                "spot": 0.01,
+                "change": 2.1760887301807212
+            },
+            {
+                "symbol": "AMP",
+                "timestamp": 1733611320,
+                "bid": 0.01,
+                "ask": 0.01,
+                "spot": 0.01,
+                "change": 1.2712717573892771
+            },
+            {
+                "symbol": "AMP",
+                "timestamp": 1733697720,
+                "bid": 0.01,
+                "ask": 0.01,
+                "spot": 0.01,
+                "change": -2.055523913141448
+            }
+        ]
+    },
+    "REN": {
+        "id": 2539,
+        "ticker": "REN",
+        "slug": "ren",
+        "name": "Ren",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/2539.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "REN",
+                "timestamp": 1733179320,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": -1.439257032613882
+            },
+            {
+                "symbol": "REN",
+                "timestamp": 1733265720,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 1.89892866339037
+            },
+            {
+                "symbol": "REN",
+                "timestamp": 1733352120,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": -0.7172259923603179
+            },
+            {
+                "symbol": "REN",
+                "timestamp": 1733438520,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 1.5605213330373982
+            },
+            {
+                "symbol": "REN",
+                "timestamp": 1733524920,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 1.6150451941751083
+            },
+            {
+                "symbol": "REN",
+                "timestamp": 1733611320,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 0.618011795371074
+            },
+            {
+                "symbol": "REN",
+                "timestamp": 1733697720,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 0.9139771904524512
+            }
+        ]
+    },
+    "UMA": {
+        "id": 5617,
+        "ticker": "UMA",
+        "slug": "uma",
+        "name": "UMA",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5617.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "UMA",
+                "timestamp": 1733179320,
+                "bid": 4.72,
+                "ask": 4.82,
+                "spot": 4.77,
+                "change": 1.1374739262012943
+            },
+            {
+                "symbol": "UMA",
+                "timestamp": 1733265720,
+                "bid": 4.77,
+                "ask": 4.89,
+                "spot": 4.83,
+                "change": 1.3214761604792469
+            },
+            {
+                "symbol": "UMA",
+                "timestamp": 1733352120,
+                "bid": 4.88,
+                "ask": 5.0,
+                "spot": 4.94,
+                "change": 2.1749008668528216
+            },
+            {
+                "symbol": "UMA",
+                "timestamp": 1733438520,
+                "bid": 4.86,
+                "ask": 4.98,
+                "spot": 4.92,
+                "change": -0.3782715701422905
+            },
+            {
+                "symbol": "UMA",
+                "timestamp": 1733524920,
+                "bid": 4.77,
+                "ask": 4.89,
+                "spot": 4.83,
+                "change": -1.8262165521276508
+            },
+            {
+                "symbol": "UMA",
+                "timestamp": 1733611320,
+                "bid": 4.78,
+                "ask": 4.9,
+                "spot": 4.84,
+                "change": 0.10868574594542446
+            },
+            {
+                "symbol": "UMA",
+                "timestamp": 1733697720,
+                "bid": 4.78,
+                "ask": 4.9,
+                "spot": 4.84,
+                "change": -0.08157431958010708
+            }
+        ]
+    },
+    "SHIB": {
+        "id": 5994,
+        "ticker": "SHIB",
+        "slug": "shiba-inu",
+        "name": "Shiba Inu",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "SHIB",
+                "timestamp": 1733179320,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": -2.1567518733925795
+            },
+            {
+                "symbol": "SHIB",
+                "timestamp": 1733265720,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": 1.726741640032829
+            },
+            {
+                "symbol": "SHIB",
+                "timestamp": 1733352120,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": -1.1890500018202728
+            },
+            {
+                "symbol": "SHIB",
+                "timestamp": 1733438520,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": 1.9036316219685219
+            },
+            {
+                "symbol": "SHIB",
+                "timestamp": 1733524920,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": 1.5307432493028355
+            },
+            {
+                "symbol": "SHIB",
+                "timestamp": 1733611320,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": -2.3731374958443023
+            },
+            {
+                "symbol": "SHIB",
+                "timestamp": 1733697720,
+                "bid": 0.0,
+                "ask": 0.0,
+                "spot": 0.0,
+                "change": -0.40444142259892635
+            }
+        ]
+    },
+    "LRC": {
+        "id": 1934,
+        "ticker": "LRC",
+        "slug": "loopring",
+        "name": "Loopring",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1934.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "LRC",
+                "timestamp": 1733179320,
+                "bid": 0.35,
+                "ask": 0.35,
+                "spot": 0.35,
+                "change": -0.025337655900538714
+            },
+            {
+                "symbol": "LRC",
+                "timestamp": 1733265720,
+                "bid": 0.36,
+                "ask": 0.36,
+                "spot": 0.36,
+                "change": 1.8888734152618971
+            },
+            {
+                "symbol": "LRC",
+                "timestamp": 1733352120,
+                "bid": 0.35,
+                "ask": 0.35,
+                "spot": 0.35,
+                "change": -2.1822386137599796
+            },
+            {
+                "symbol": "LRC",
+                "timestamp": 1733438520,
+                "bid": 0.35,
+                "ask": 0.35,
+                "spot": 0.35,
+                "change": 0.5172139654149261
+            },
+            {
+                "symbol": "LRC",
+                "timestamp": 1733524920,
+                "bid": 0.35,
+                "ask": 0.35,
+                "spot": 0.35,
+                "change": -1.396153959526119
+            },
+            {
+                "symbol": "LRC",
+                "timestamp": 1733611320,
+                "bid": 0.35,
+                "ask": 0.35,
+                "spot": 0.35,
+                "change": 0.4441587020069315
+            },
+            {
+                "symbol": "LRC",
+                "timestamp": 1733697720,
+                "bid": 0.35,
+                "ask": 0.35,
+                "spot": 0.35,
+                "change": -1.1497712120462444
+            }
+        ]
+    },
+    "ANKR": {
+        "id": 3783,
+        "ticker": "ANKR",
+        "slug": "ankr",
+        "name": "Ankr",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3783.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ANKR",
+                "timestamp": 1733179320,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": -1.4367550994718044
+            },
+            {
+                "symbol": "ANKR",
+                "timestamp": 1733265720,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 2.297238984234756
+            },
+            {
+                "symbol": "ANKR",
+                "timestamp": 1733352120,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 2.035904362017736
+            },
+            {
+                "symbol": "ANKR",
+                "timestamp": 1733438520,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": -0.2463548845575736
+            },
+            {
+                "symbol": "ANKR",
+                "timestamp": 1733524920,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 1.5357384803521352
+            },
+            {
+                "symbol": "ANKR",
+                "timestamp": 1733611320,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": -2.0709586451791018
+            },
+            {
+                "symbol": "ANKR",
+                "timestamp": 1733697720,
+                "bid": 0.06,
+                "ask": 0.06,
+                "spot": 0.06,
+                "change": 1.137347075680121
+            }
+        ]
+    },
+    "HBAR": {
+        "id": 4642,
+        "ticker": "HBAR",
+        "slug": "hedera",
+        "name": "Hedera",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "HBAR",
+                "timestamp": 1733179320,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": 1.0952437560472923
+            },
+            {
+                "symbol": "HBAR",
+                "timestamp": 1733265720,
+                "bid": 0.41,
+                "ask": 0.41,
+                "spot": 0.41,
+                "change": 2.197712276704592
+            },
+            {
+                "symbol": "HBAR",
+                "timestamp": 1733352120,
+                "bid": 0.41,
+                "ask": 0.41,
+                "spot": 0.41,
+                "change": 0.6567827127690471
+            },
+            {
+                "symbol": "HBAR",
+                "timestamp": 1733438520,
+                "bid": 0.4,
+                "ask": 0.4,
+                "spot": 0.4,
+                "change": -2.068166967457725
+            },
+            {
+                "symbol": "HBAR",
+                "timestamp": 1733524920,
+                "bid": 0.41,
+                "ask": 0.41,
+                "spot": 0.41,
+                "change": 1.973982047626592
+            },
+            {
+                "symbol": "HBAR",
+                "timestamp": 1733611320,
+                "bid": 0.42,
+                "ask": 0.42,
+                "spot": 0.42,
+                "change": 1.479315676745427
+            },
+            {
+                "symbol": "HBAR",
+                "timestamp": 1733697720,
+                "bid": 0.41,
+                "ask": 0.41,
+                "spot": 0.41,
+                "change": -2.098807700685039
+            }
+        ]
+    },
+    "EGLD": {
+        "id": 6892,
+        "ticker": "EGLD",
+        "slug": "multiversx-egld",
+        "name": "MultiversX",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "EGLD",
+                "timestamp": 1733179320,
+                "bid": 63.11,
+                "ask": 64.57,
+                "spot": 63.84,
+                "change": -0.7185299489209418
+            },
+            {
+                "symbol": "EGLD",
+                "timestamp": 1733265720,
+                "bid": 63.29,
+                "ask": 64.77,
+                "spot": 64.03,
+                "change": 0.30180059427392036
+            },
+            {
+                "symbol": "EGLD",
+                "timestamp": 1733352120,
+                "bid": 62.51,
+                "ask": 63.97,
+                "spot": 63.24,
+                "change": -1.2396986643443442
+            },
+            {
+                "symbol": "EGLD",
+                "timestamp": 1733438520,
+                "bid": 61.65,
+                "ask": 63.09,
+                "spot": 62.37,
+                "change": -1.3697057154860681
+            },
+            {
+                "symbol": "EGLD",
+                "timestamp": 1733524920,
+                "bid": 60.9,
+                "ask": 62.32,
+                "spot": 61.61,
+                "change": -1.217786078282732
+            },
+            {
+                "symbol": "EGLD",
+                "timestamp": 1733611320,
+                "bid": 61.46,
+                "ask": 62.9,
+                "spot": 62.18,
+                "change": 0.918249671337894
+            },
+            {
+                "symbol": "EGLD",
+                "timestamp": 1733697720,
+                "bid": 60.47,
+                "ask": 61.87,
+                "spot": 61.17,
+                "change": -1.6227859295055247
+            }
+        ]
+    },
+    "AVAX": {
+        "id": 5805,
+        "ticker": "AVAX",
+        "slug": "avalanche",
+        "name": "Avalanche",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "AVAX",
+                "timestamp": 1733179320,
+                "bid": 63.38,
+                "ask": 64.86,
+                "spot": 64.12,
+                "change": 0.9669812980991428
+            },
+            {
+                "symbol": "AVAX",
+                "timestamp": 1733265720,
+                "bid": 63.62,
+                "ask": 65.1,
+                "spot": 64.36,
+                "change": 0.37687037858987305
+            },
+            {
+                "symbol": "AVAX",
+                "timestamp": 1733352120,
+                "bid": 65.09,
+                "ask": 66.61,
+                "spot": 65.85,
+                "change": 2.3223030132023865
+            },
+            {
+                "symbol": "AVAX",
+                "timestamp": 1733438520,
+                "bid": 66.44,
+                "ask": 67.98,
+                "spot": 67.21,
+                "change": 2.066283489238696
+            },
+            {
+                "symbol": "AVAX",
+                "timestamp": 1733524920,
+                "bid": 66.0,
+                "ask": 67.54,
+                "spot": 66.77,
+                "change": -0.6559733939576784
+            },
+            {
+                "symbol": "AVAX",
+                "timestamp": 1733611320,
+                "bid": 67.47,
+                "ask": 69.03,
+                "spot": 68.25,
+                "change": 2.22392053620006
+            },
+            {
+                "symbol": "AVAX",
+                "timestamp": 1733697720,
+                "bid": 68.62,
+                "ask": 70.22,
+                "spot": 69.42,
+                "change": 1.7086752718479872
+            }
+        ]
+    },
+    "ONE": {
+        "id": 3945,
+        "ticker": "ONE",
+        "slug": "harmony",
+        "name": "Harmony",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ONE",
+                "timestamp": 1733179320,
+                "bid": 0.05,
+                "ask": 0.05,
+                "spot": 0.05,
+                "change": -1.7130501929094466
+            },
+            {
+                "symbol": "ONE",
+                "timestamp": 1733265720,
+                "bid": 0.05,
+                "ask": 0.05,
+                "spot": 0.05,
+                "change": 1.3544541636715053
+            },
+            {
+                "symbol": "ONE",
+                "timestamp": 1733352120,
+                "bid": 0.05,
+                "ask": 0.05,
+                "spot": 0.05,
+                "change": 2.4928892777961593
+            },
+            {
+                "symbol": "ONE",
+                "timestamp": 1733438520,
+                "bid": 0.05,
+                "ask": 0.05,
+                "spot": 0.05,
+                "change": 0.38429770660822626
+            },
+            {
+                "symbol": "ONE",
+                "timestamp": 1733524920,
+                "bid": 0.05,
+                "ask": 0.05,
+                "spot": 0.05,
+                "change": -0.4171480415525992
+            },
+            {
+                "symbol": "ONE",
+                "timestamp": 1733611320,
+                "bid": 0.05,
+                "ask": 0.05,
+                "spot": 0.05,
+                "change": 2.2629773456321445
+            },
+            {
+                "symbol": "ONE",
+                "timestamp": 1733697720,
+                "bid": 0.05,
+                "ask": 0.05,
+                "spot": 0.05,
+                "change": 1.539319133453457
+            }
+        ]
+    },
+    "GALA": {
+        "id": 7080,
+        "ticker": "GALA",
+        "slug": "gala",
+        "name": "Gala",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "GALA",
+                "timestamp": 1733179320,
+                "bid": 0.07,
+                "ask": 0.07,
+                "spot": 0.07,
+                "change": 1.8926747092108407
+            },
+            {
+                "symbol": "GALA",
+                "timestamp": 1733265720,
+                "bid": 0.07,
+                "ask": 0.07,
+                "spot": 0.07,
+                "change": 1.0241548558937632
+            },
+            {
+                "symbol": "GALA",
+                "timestamp": 1733352120,
+                "bid": 0.07,
+                "ask": 0.07,
+                "spot": 0.07,
+                "change": -2.2466587098252417
+            },
+            {
+                "symbol": "GALA",
+                "timestamp": 1733438520,
+                "bid": 0.07,
+                "ask": 0.07,
+                "spot": 0.07,
+                "change": -0.9029774637148775
+            },
+            {
+                "symbol": "GALA",
+                "timestamp": 1733524920,
+                "bid": 0.07,
+                "ask": 0.07,
+                "spot": 0.07,
+                "change": 0.9509099744881966
+            },
+            {
+                "symbol": "GALA",
+                "timestamp": 1733611320,
+                "bid": 0.07,
+                "ask": 0.07,
+                "spot": 0.07,
+                "change": -0.0755598793046004
+            },
+            {
+                "symbol": "GALA",
+                "timestamp": 1733697720,
+                "bid": 0.07,
+                "ask": 0.07,
+                "spot": 0.07,
+                "change": 1.1430094264359631
+            }
+        ]
+    },
+    "ALICE": {
+        "id": 8766,
+        "ticker": "ALICE",
+        "slug": "myneighboralice",
+        "name": "MyNeighborAlice",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ALICE",
+                "timestamp": 1733179320,
+                "bid": 2.06,
+                "ask": 2.1,
+                "spot": 2.08,
+                "change": 0.4939315935369488
+            },
+            {
+                "symbol": "ALICE",
+                "timestamp": 1733265720,
+                "bid": 2.11,
+                "ask": 2.15,
+                "spot": 2.13,
+                "change": 2.4878438359249566
+            },
+            {
+                "symbol": "ALICE",
+                "timestamp": 1733352120,
+                "bid": 2.13,
+                "ask": 2.17,
+                "spot": 2.15,
+                "change": 0.9127224684606539
+            },
+            {
+                "symbol": "ALICE",
+                "timestamp": 1733438520,
+                "bid": 2.08,
+                "ask": 2.12,
+                "spot": 2.1,
+                "change": -2.1550415443376454
+            },
+            {
+                "symbol": "ALICE",
+                "timestamp": 1733524920,
+                "bid": 2.08,
+                "ask": 2.12,
+                "spot": 2.1,
+                "change": 0.005361486484029676
+            },
+            {
+                "symbol": "ALICE",
+                "timestamp": 1733611320,
+                "bid": 2.04,
+                "ask": 2.08,
+                "spot": 2.06,
+                "change": -1.7221088512756006
+            },
+            {
+                "symbol": "ALICE",
+                "timestamp": 1733697720,
+                "bid": 2.03,
+                "ask": 2.07,
+                "spot": 2.05,
+                "change": -0.25813128285463405
+            }
+        ]
+    },
+    "ATOM": {
+        "id": 3794,
+        "ticker": "ATOM",
+        "slug": "cosmos",
+        "name": "Cosmos",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ATOM",
+                "timestamp": 1733179320,
+                "bid": 11.81,
+                "ask": 12.09,
+                "spot": 11.95,
+                "change": 1.1408723977023314
+            },
+            {
+                "symbol": "ATOM",
+                "timestamp": 1733265720,
+                "bid": 12.06,
+                "ask": 12.34,
+                "spot": 12.2,
+                "change": 2.0789208017912673
+            },
+            {
+                "symbol": "ATOM",
+                "timestamp": 1733352120,
+                "bid": 12.08,
+                "ask": 12.36,
+                "spot": 12.22,
+                "change": 0.12618293090162558
+            },
+            {
+                "symbol": "ATOM",
+                "timestamp": 1733438520,
+                "bid": 12.24,
+                "ask": 12.52,
+                "spot": 12.38,
+                "change": 1.3400324099769856
+            },
+            {
+                "symbol": "ATOM",
+                "timestamp": 1733524920,
+                "bid": 12.3,
+                "ask": 12.58,
+                "spot": 12.44,
+                "change": 0.48395480768724086
+            },
+            {
+                "symbol": "ATOM",
+                "timestamp": 1733611320,
+                "bid": 12.43,
+                "ask": 12.71,
+                "spot": 12.57,
+                "change": 1.016054793872824
+            },
+            {
+                "symbol": "ATOM",
+                "timestamp": 1733697720,
+                "bid": 12.48,
+                "ask": 12.78,
+                "spot": 12.63,
+                "change": 0.44850155046055606
+            }
+        ]
+    },
+    "DYDX": {
+        "id": 28324,
+        "ticker": "DYDX",
+        "slug": "dydx-chain",
+        "name": "dYdX (Native)",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/28324.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "DYDX",
+                "timestamp": 1733179320,
+                "bid": 2.99,
+                "ask": 3.05,
+                "spot": 3.02,
+                "change": 1.8687891499999774
+            },
+            {
+                "symbol": "DYDX",
+                "timestamp": 1733265720,
+                "bid": 3.05,
+                "ask": 3.13,
+                "spot": 3.09,
+                "change": 2.2921509846712276
+            },
+            {
+                "symbol": "DYDX",
+                "timestamp": 1733352120,
+                "bid": 3.02,
+                "ask": 3.1,
+                "spot": 3.06,
+                "change": -1.0512378850731126
+            },
+            {
+                "symbol": "DYDX",
+                "timestamp": 1733438520,
+                "bid": 3.02,
+                "ask": 3.1,
+                "spot": 3.06,
+                "change": 0.12773658687448997
+            },
+            {
+                "symbol": "DYDX",
+                "timestamp": 1733524920,
+                "bid": 3.09,
+                "ask": 3.17,
+                "spot": 3.13,
+                "change": 2.262233937751988
+            },
+            {
+                "symbol": "DYDX",
+                "timestamp": 1733611320,
+                "bid": 3.02,
+                "ask": 3.1,
+                "spot": 3.06,
+                "change": -2.2808286895137577
+            },
+            {
+                "symbol": "DYDX",
+                "timestamp": 1733697720,
+                "bid": 2.98,
+                "ask": 3.04,
+                "spot": 3.01,
+                "change": -1.7161517575749556
+            }
+        ]
+    },
+    "CELO": {
+        "id": 5567,
+        "ticker": "CELO",
+        "slug": "celo",
+        "name": "Celo",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5567.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "CELO",
+                "timestamp": 1733179320,
+                "bid": 1.18,
+                "ask": 1.2,
+                "spot": 1.19,
+                "change": 2.039751366688746
+            },
+            {
+                "symbol": "CELO",
+                "timestamp": 1733265720,
+                "bid": 1.18,
+                "ask": 1.2,
+                "spot": 1.19,
+                "change": 0.40520835828098445
+            },
+            {
+                "symbol": "CELO",
+                "timestamp": 1733352120,
+                "bid": 1.19,
+                "ask": 1.21,
+                "spot": 1.2,
+                "change": 0.7316298574467188
+            },
+            {
+                "symbol": "CELO",
+                "timestamp": 1733438520,
+                "bid": 1.17,
+                "ask": 1.19,
+                "spot": 1.18,
+                "change": -1.6552714864012597
+            },
+            {
+                "symbol": "CELO",
+                "timestamp": 1733524920,
+                "bid": 1.2,
+                "ask": 1.22,
+                "spot": 1.21,
+                "change": 2.1714567332073447
+            },
+            {
+                "symbol": "CELO",
+                "timestamp": 1733611320,
+                "bid": 1.22,
+                "ask": 1.24,
+                "spot": 1.23,
+                "change": 1.8408731123718614
+            },
+            {
+                "symbol": "CELO",
+                "timestamp": 1733697720,
+                "bid": 1.22,
+                "ask": 1.24,
+                "spot": 1.23,
+                "change": 0.17034647148434523
+            }
+        ]
+    },
+    "STORJ": {
+        "id": 1772,
+        "ticker": "STORJ",
+        "slug": "storj",
+        "name": "Storj",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/1772.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "STORJ",
+                "timestamp": 1733179320,
+                "bid": 0.81,
+                "ask": 0.83,
+                "spot": 0.82,
+                "change": 0.4858973069013093
+            },
+            {
+                "symbol": "STORJ",
+                "timestamp": 1733265720,
+                "bid": 0.8,
+                "ask": 0.82,
+                "spot": 0.81,
+                "change": -1.7194598248762316
+            },
+            {
+                "symbol": "STORJ",
+                "timestamp": 1733352120,
+                "bid": 0.78,
+                "ask": 0.8,
+                "spot": 0.79,
+                "change": -2.012165378645089
+            },
+            {
+                "symbol": "STORJ",
+                "timestamp": 1733438520,
+                "bid": 0.77,
+                "ask": 0.79,
+                "spot": 0.78,
+                "change": -0.8867966286431668
+            },
+            {
+                "symbol": "STORJ",
+                "timestamp": 1733524920,
+                "bid": 0.75,
+                "ask": 0.77,
+                "spot": 0.76,
+                "change": -1.9679994910212195
+            },
+            {
+                "symbol": "STORJ",
+                "timestamp": 1733611320,
+                "bid": 0.76,
+                "ask": 0.78,
+                "spot": 0.77,
+                "change": 1.490911764753145
+            },
+            {
+                "symbol": "STORJ",
+                "timestamp": 1733697720,
+                "bid": 0.75,
+                "ask": 0.77,
+                "spot": 0.76,
+                "change": -1.540215108812929
+            }
+        ]
+    },
+    "SKL": {
+        "id": 5691,
+        "ticker": "SKL",
+        "slug": "skale-network",
+        "name": "SKALE",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5691.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "SKL",
+                "timestamp": 1733179320,
+                "bid": 0.09,
+                "ask": 0.09,
+                "spot": 0.09,
+                "change": 0.5157272743691061
+            },
+            {
+                "symbol": "SKL",
+                "timestamp": 1733265720,
+                "bid": 0.09,
+                "ask": 0.09,
+                "spot": 0.09,
+                "change": -0.3782004893996822
+            },
+            {
+                "symbol": "SKL",
+                "timestamp": 1733352120,
+                "bid": 0.09,
+                "ask": 0.09,
+                "spot": 0.09,
+                "change": -0.5120205082627542
+            },
+            {
+                "symbol": "SKL",
+                "timestamp": 1733438520,
+                "bid": 0.09,
+                "ask": 0.09,
+                "spot": 0.09,
+                "change": 2.005356745946326
+            },
+            {
+                "symbol": "SKL",
+                "timestamp": 1733524920,
+                "bid": 0.09,
+                "ask": 0.09,
+                "spot": 0.09,
+                "change": 0.8431825440165879
+            },
+            {
+                "symbol": "SKL",
+                "timestamp": 1733611320,
+                "bid": 0.09,
+                "ask": 0.09,
+                "spot": 0.09,
+                "change": 0.8397654592803243
+            },
+            {
+                "symbol": "SKL",
+                "timestamp": 1733697720,
+                "bid": 0.09,
+                "ask": 0.09,
+                "spot": 0.09,
+                "change": -0.3762950717725939
+            }
+        ]
+    },
+    "CTSI": {
+        "id": 5444,
+        "ticker": "CTSI",
+        "slug": "cartesi",
+        "name": "Cartesi",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/5444.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "CTSI",
+                "timestamp": 1733179320,
+                "bid": 0.27,
+                "ask": 0.27,
+                "spot": 0.27,
+                "change": -2.4289749242349954
+            },
+            {
+                "symbol": "CTSI",
+                "timestamp": 1733265720,
+                "bid": 0.27,
+                "ask": 0.27,
+                "spot": 0.27,
+                "change": -0.20311589772908434
+            },
+            {
+                "symbol": "CTSI",
+                "timestamp": 1733352120,
+                "bid": 0.27,
+                "ask": 0.27,
+                "spot": 0.27,
+                "change": -0.4948662861701121
+            },
+            {
+                "symbol": "CTSI",
+                "timestamp": 1733438520,
+                "bid": 0.27,
+                "ask": 0.27,
+                "spot": 0.27,
+                "change": -0.40644028137087185
+            },
+            {
+                "symbol": "CTSI",
+                "timestamp": 1733524920,
+                "bid": 0.27,
+                "ask": 0.27,
+                "spot": 0.27,
+                "change": -0.1333951396120403
+            },
+            {
+                "symbol": "CTSI",
+                "timestamp": 1733611320,
+                "bid": 0.27,
+                "ask": 0.27,
+                "spot": 0.27,
+                "change": -1.4948584440271906
+            },
+            {
+                "symbol": "CTSI",
+                "timestamp": 1733697720,
+                "bid": 0.27,
+                "ask": 0.27,
+                "spot": 0.27,
+                "change": -0.06693675498922769
+            }
+        ]
+    },
+    "BAND": {
+        "id": 4679,
+        "ticker": "BAND",
+        "slug": "band-protocol",
+        "name": "Band Protocol",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "BAND",
+                "timestamp": 1733179320,
+                "bid": 2.47,
+                "ask": 2.53,
+                "spot": 2.5,
+                "change": 0.9581655129126672
+            },
+            {
+                "symbol": "BAND",
+                "timestamp": 1733265720,
+                "bid": 2.46,
+                "ask": 2.52,
+                "spot": 2.49,
+                "change": -0.5092250021022282
+            },
+            {
+                "symbol": "BAND",
+                "timestamp": 1733352120,
+                "bid": 2.52,
+                "ask": 2.58,
+                "spot": 2.55,
+                "change": 2.348796020853438
+            },
+            {
+                "symbol": "BAND",
+                "timestamp": 1733438520,
+                "bid": 2.48,
+                "ask": 2.54,
+                "spot": 2.51,
+                "change": -1.5128683457558234
+            },
+            {
+                "symbol": "BAND",
+                "timestamp": 1733524920,
+                "bid": 2.48,
+                "ask": 2.54,
+                "spot": 2.51,
+                "change": -0.03574207867091683
+            },
+            {
+                "symbol": "BAND",
+                "timestamp": 1733611320,
+                "bid": 2.5,
+                "ask": 2.56,
+                "spot": 2.53,
+                "change": 0.6414156853772859
+            },
+            {
+                "symbol": "BAND",
+                "timestamp": 1733697720,
+                "bid": 2.44,
+                "ask": 2.5,
+                "spot": 2.47,
+                "change": -2.371789399474719
+            }
+        ]
+    },
+    "ENS": {
+        "id": 13855,
+        "ticker": "ENS",
+        "slug": "ethereum-name-service",
+        "name": "Ethereum Name Service",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/13855.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "ENS",
+                "timestamp": 1733179320,
+                "bid": 48.74,
+                "ask": 49.88,
+                "spot": 49.31,
+                "change": 1.7178549685261926
+            },
+            {
+                "symbol": "ENS",
+                "timestamp": 1733265720,
+                "bid": 48.4,
+                "ask": 49.52,
+                "spot": 48.96,
+                "change": -0.717820118700256
+            },
+            {
+                "symbol": "ENS",
+                "timestamp": 1733352120,
+                "bid": 47.9,
+                "ask": 49.02,
+                "spot": 48.46,
+                "change": -1.0139458455650203
+            },
+            {
+                "symbol": "ENS",
+                "timestamp": 1733438520,
+                "bid": 47.25,
+                "ask": 48.35,
+                "spot": 47.8,
+                "change": -1.367538605738003
+            },
+            {
+                "symbol": "ENS",
+                "timestamp": 1733524920,
+                "bid": 47.08,
+                "ask": 48.18,
+                "spot": 47.63,
+                "change": -0.34627356110813023
+            },
+            {
+                "symbol": "ENS",
+                "timestamp": 1733611320,
+                "bid": 46.79,
+                "ask": 47.87,
+                "spot": 47.33,
+                "change": -0.6372533190405683
+            },
+            {
+                "symbol": "ENS",
+                "timestamp": 1733697720,
+                "bid": 46.09,
+                "ask": 47.17,
+                "spot": 46.63,
+                "change": -1.4759324157881952
+            }
+        ]
+    },
+    "RNDR": {
+        "id": 0,
+        "ticker": "RNDR",
+        "slug": "render",
+        "name": "Render",
+        "iconUrl": "https://assets.coingecko.com/coins/images/11636/standard/rndr.png?1696511529",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "RNDR",
+                "timestamp": 1733179320,
+                "bid": 12.34,
+                "ask": 12.62,
+                "spot": 12.48,
+                "change": -0.4894482535954414
+            },
+            {
+                "symbol": "RNDR",
+                "timestamp": 1733265720,
+                "bid": 12.57,
+                "ask": 12.87,
+                "spot": 12.72,
+                "change": 1.9217880051141965
+            },
+            {
+                "symbol": "RNDR",
+                "timestamp": 1733352120,
+                "bid": 12.89,
+                "ask": 13.19,
+                "spot": 13.04,
+                "change": 2.4836230915869937
+            },
+            {
+                "symbol": "RNDR",
+                "timestamp": 1733438520,
+                "bid": 12.57,
+                "ask": 12.87,
+                "spot": 12.72,
+                "change": -2.4216362150589354
+            },
+            {
+                "symbol": "RNDR",
+                "timestamp": 1733524920,
+                "bid": 12.6,
+                "ask": 12.9,
+                "spot": 12.75,
+                "change": 0.25410447693015215
+            },
+            {
+                "symbol": "RNDR",
+                "timestamp": 1733611320,
+                "bid": 12.74,
+                "ask": 13.04,
+                "spot": 12.89,
+                "change": 1.0917323113769966
+            },
+            {
+                "symbol": "RNDR",
+                "timestamp": 1733697720,
+                "bid": 12.85,
+                "ask": 13.15,
+                "spot": 13.0,
+                "change": 0.8368816827754246
+            }
+        ]
+    },
+    "MASK": {
+        "id": 8536,
+        "ticker": "MASK",
+        "slug": "mask-network",
+        "name": "Mask Network",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/8536.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "MASK",
+                "timestamp": 1733179320,
+                "bid": 4.78,
+                "ask": 4.9,
+                "spot": 4.84,
+                "change": 1.7502347926724369
+            },
+            {
+                "symbol": "MASK",
+                "timestamp": 1733265720,
+                "bid": 4.86,
+                "ask": 4.98,
+                "spot": 4.92,
+                "change": 1.658558249554611
+            },
+            {
+                "symbol": "MASK",
+                "timestamp": 1733352120,
+                "bid": 4.74,
+                "ask": 4.86,
+                "spot": 4.8,
+                "change": -2.3999458321744056
+            },
+            {
+                "symbol": "MASK",
+                "timestamp": 1733438520,
+                "bid": 4.78,
+                "ask": 4.9,
+                "spot": 4.84,
+                "change": 0.8417409869141963
+            },
+            {
+                "symbol": "MASK",
+                "timestamp": 1733524920,
+                "bid": 4.7,
+                "ask": 4.8,
+                "spot": 4.75,
+                "change": -1.8437690401408506
+            },
+            {
+                "symbol": "MASK",
+                "timestamp": 1733611320,
+                "bid": 4.67,
+                "ask": 4.77,
+                "spot": 4.72,
+                "change": -0.725478666077572
+            },
+            {
+                "symbol": "MASK",
+                "timestamp": 1733697720,
+                "bid": 4.71,
+                "ask": 4.81,
+                "spot": 4.76,
+                "change": 0.7965198283993011
+            }
+        ]
+    },
+    "APE": {
+        "id": 18876,
+        "ticker": "APE",
+        "slug": "apecoin-ape",
+        "name": "ApeCoin",
+        "iconUrl": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png",
+        "lastUpdateIndex": 0,
+        "priceData": [
+            {
+                "symbol": "APE",
+                "timestamp": 1733179320,
+                "bid": 2.1,
+                "ask": 2.14,
+                "spot": 2.12,
+                "change": 0.4766091779850061
+            },
+            {
+                "symbol": "APE",
+                "timestamp": 1733265720,
+                "bid": 2.12,
+                "ask": 2.16,
+                "spot": 2.14,
+                "change": 0.73941486416975
+            },
+            {
+                "symbol": "APE",
+                "timestamp": 1733352120,
+                "bid": 2.08,
+                "ask": 2.12,
+                "spot": 2.1,
+                "change": -2.0815049013895512
+            },
+            {
+                "symbol": "APE",
+                "timestamp": 1733438520,
+                "bid": 2.07,
+                "ask": 2.11,
+                "spot": 2.09,
+                "change": -0.6255588325134787
+            },
+            {
+                "symbol": "APE",
+                "timestamp": 1733524920,
+                "bid": 2.07,
+                "ask": 2.11,
+                "spot": 2.09,
+                "change": -0.23407537909361187
+            },
+            {
+                "symbol": "APE",
+                "timestamp": 1733611320,
+                "bid": 2.11,
+                "ask": 2.15,
+                "spot": 2.13,
+                "change": 1.8296994467297711
+            },
+            {
+                "symbol": "APE",
+                "timestamp": 1733697720,
+                "bid": 2.12,
+                "ask": 2.16,
+                "spot": 2.14,
+                "change": 0.29986601710472094
+            }
+        ]
+    }
+}
